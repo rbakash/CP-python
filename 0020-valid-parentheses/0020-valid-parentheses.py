@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        if len(s) == 1:
+        if len(s) % 2 == 1:
             return False
         for bracket in s:
             if bracket == "(" or bracket == "{" or bracket == "[":
