@@ -3,13 +3,12 @@ class Solution:
         maxHeap = [-num for num in stones]
         heapq.heapify(maxHeap)
 
-        for index in range(len(maxHeap)):
-            if len(maxHeap )<2:
-                break
+        while len(maxHeap) > 1:
+
             heaviestStone1 = heapq.heappop(maxHeap)
             heaviestStone2 = heapq.heappop(maxHeap)
 
             if heaviestStone1 != heaviestStone2:
                 heapq.heappush(maxHeap, (heaviestStone1 - heaviestStone2))
 
-        return -1 * maxHeap[0] if len(maxHeap) else 0
+        return -1 * maxHeap[0] if maxHeap else 0
