@@ -6,7 +6,7 @@ class Solution:
         endLine = len(height) - 1
 
         while endLine > startLine:
-            currentArea = min(height[endLine], height[startLine]) * abs(
+            currentArea = min(height[endLine], height[startLine]) * (
                 endLine - startLine
             )
 
