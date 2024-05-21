@@ -4,11 +4,11 @@ class Solution:
         rowsSet = [set() for _ in range(dimension)]
         colsSet = [set() for _ in range(dimension)]
         # colSet = Set() * dimension
-        boxSet = [set() for row in range(dimension)]
+        # boxSet = [set() for row in range(dimension)]
         boxSet = defaultdict(set)
 
-        for row in range(0, dimension):
-            for column in range(0, dimension):
+        for row in range(dimension):
+            for column in range(dimension):
                 if board[row][column] != ".":
                     if board[row][column] in rowsSet[row]:
                         return False
