@@ -5,6 +5,7 @@ class Solution:
         colsSet = [set() for _ in range(dimension)]
         # colSet = Set() * dimension 
         boxSet = [set() for row in range(dimension)]
+        boxSet = defaultdict(set)
         
         print(rowsSet)
         print(boxSet)
@@ -17,9 +18,9 @@ class Solution:
                     if board[row][column] in colsSet[column]:
                         return False
                     colsSet[column].add(board[row][column])
-                    index = (row//3) * 3 + (column //3 )
-                    if board[row][column] in boxSet[index]:
+                    # index = (row//3) * 3 + (column //3 )
+                    if board[row][column] in boxSet[(row//3,column//3)]:
                         return False
-                    boxSet[index].add(board[row][column])
+                    boxSet[(row//3,column//3)].add(board[row][column])
 
         return True
