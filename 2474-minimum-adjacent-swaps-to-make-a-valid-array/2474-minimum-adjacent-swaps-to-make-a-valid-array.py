@@ -7,11 +7,9 @@ class Solution:
         if n == 1:
             return 0
 
-        # maxValue = float("-inf")
         maxIndex = 0
-        # minValue = float("inf")
         minIndex = 0
-
+        print(nums[::-1])
         for index in range(1, n):
             if nums[index] < nums[minIndex]:
                 minIndex = index
