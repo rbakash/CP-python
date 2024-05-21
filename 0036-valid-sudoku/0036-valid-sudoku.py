@@ -3,14 +3,12 @@ class Solution:
         dimension = 9
         rowsSet = [set() for _ in range(dimension)]
         colsSet = [set() for _ in range(dimension)]
-        # colSet = Set() * dimension 
+        # colSet = Set() * dimension
         boxSet = [set() for row in range(dimension)]
         boxSet = defaultdict(set)
-        
-        print(rowsSet)
-        print(boxSet)
-        for row in range(0, len(board)):
-            for column in range(0,len(board[row])):
+
+        for row in range(0, dimension):
+            for column in range(0, dimension):
                 if board[row][column] != ".":
                     if board[row][column] in rowsSet[row]:
                         return False
@@ -19,8 +17,8 @@ class Solution:
                         return False
                     colsSet[column].add(board[row][column])
                     # index = (row//3) * 3 + (column //3 )
-                    if board[row][column] in boxSet[(row//3,column//3)]:
+                    if board[row][column] in boxSet[(row // 3, column // 3)]:
                         return False
-                    boxSet[(row//3,column//3)].add(board[row][column])
+                    boxSet[(row // 3, column // 3)].add(board[row][column])
 
         return True
