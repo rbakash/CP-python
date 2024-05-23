@@ -14,9 +14,7 @@ class Solution:
             mostOccuring = max(frequency.values())
 
             # check if its valid substring
-            numberOfReplacement = (end - start + 1) - mostOccuring
-
-            while (end - start + 1) - mostOccuring > k:
+            if (end - start + 1) - mostOccuring > k:
                 frequency[s[start]] -= 1
                 start += 1
 
