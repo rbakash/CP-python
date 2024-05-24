@@ -4,14 +4,13 @@ class Solution:
         stringPLength = len(p)
         if stringSLength < stringPLength:
             return []
-        print(stringPLength, stringSLength)
+
         anagramIndex = []
         stringSFrequency, stringPFrequency = [0] * 26, [0] * 26
 
         # create frequency map
         for index in range(stringPLength):
             stringPFrequency[ord(p[index]) - ord("a")] += 1
-            # stringSFrequency[ord(s[index]) - ord("a")] += 1
 
         for index in range(stringSLength):
 
