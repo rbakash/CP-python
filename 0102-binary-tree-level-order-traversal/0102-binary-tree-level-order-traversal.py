@@ -10,8 +10,7 @@ class Solution:
         if not root:
             return []
 
-        queue = collections.deque()
-        queue.append(root)
+        queue = deque([root])
         levelOrder = []
         levelIterator = 0
 
