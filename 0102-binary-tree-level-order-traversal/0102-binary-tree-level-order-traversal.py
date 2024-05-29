@@ -13,18 +13,19 @@ class Solution:
         queue = collections.deque()
         queue.append(root)
         levelOrder = []
+        levelIterator = 0
 
         while queue:
 
-            level = []
+            levelOrder.append([])
             totalNodes = len(queue)
             for index in range(totalNodes):
                 currentNode = queue.popleft()
-                level.append(currentNode.val)
+                levelOrder[levelIterator].append(currentNode.val)
                 if currentNode.left:
                     queue.append(currentNode.left)
                 if currentNode.right:
                     queue.append(currentNode.right)
-            levelOrder.append(level)
+            levelIterator += 1
 
         return levelOrder
