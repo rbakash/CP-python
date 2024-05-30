@@ -1,27 +1,15 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # subsets = [[]]
-        # for num in nums:
-        #     for eachSubset in subsets:
-        #         subsets.append(eachSubset+[num])
+        n = len(nums)
+        subsets = []
 
-        # return subsets
+        for bitIndex in range(2**n, 2 ** (n + 1)):
+            bitmask = bin(bitIndex)[3:]
 
-        subset = []
-        # currentSubset = []
+            currentSubSet = []
+            for index in range(n):
 
-        def dfs(index,currentSubset):
-            if index == len(nums):
-                subset.append(currentSubset[:])
-                return
-
-            # decision to include the current character
-            currentSubset.append(nums[index])
-            dfs(index + 1,currentSubset)
-
-            # decision to not include the current character
-            currentSubset.pop()
-            dfs(index + 1,currentSubset)
-
-        dfs(0,[])
-        return subset
+                if bitmask[index] == "1":
+                    currentSubSet.append(nums[index])
+            subsets.append(currentSubSet)
+        return subsets
