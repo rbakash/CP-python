@@ -29,7 +29,7 @@ class Solution:
             visited.add((row, col))
 
             while queue:
-                currentRow, currentCol = queue.popleft()
+                currentRow, currentCol = queue.pop()
                 directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]
                 for dr, dc in directions:
                     r, c = currentRow + dr, currentCol + dc
