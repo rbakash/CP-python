@@ -29,7 +29,7 @@ class Solution:
             visited.add((row, col))
 
             while queue:
-                currentRow, currentCol = queue.pop()
+                currentRow, currentCol = queue.popleft()
                 directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]
                 for dr, dc in directions:
                     r, c = currentRow + dr, currentCol + dc
@@ -45,7 +45,7 @@ class Solution:
         for row in range(rows):
             for col in range(cols):
                 if grid[row][col] == "1" and (row, col) not in visited:
-                    # dfs(row, col)
-                    bfs(row, col)
+                    dfs(row, col)
+                    # bfs(row, col)
                     noOfIslands += 1
         return noOfIslands
