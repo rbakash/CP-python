@@ -1,6 +1,8 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         noOfIslands = 0
+        if not grid:
+            return noOfIslands
         rows = len(grid)
         cols = len(grid[0])
 
