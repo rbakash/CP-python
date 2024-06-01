@@ -22,11 +22,4 @@ class Solution:
             dfs(row,0,pacificOcean,heights[row][0])
             dfs(row,cols-1,altlanticOcean,heights[row][cols-1])
 
-        result =[]
-
-        for row in range(rows):
-            for col in range(cols):
-                if (row,col) in pacificOcean and (row,col) in altlanticOcean:
-                    result.append([row,col])
-
-        return result
+        return list(altlanticOcean.intersection(pacificOcean))
