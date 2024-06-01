@@ -5,7 +5,6 @@ class Solution:
         """
         rows = len(board)
         cols = len(board[0])
-        visited= set()
         directions = [[-1,0],[1,0],[0,-1],[0,1]]
 
         def dfs(row,col):
