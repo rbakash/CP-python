@@ -5,9 +5,30 @@ class Solution:
             return True
 
         preAdjacency = {i: [] for i in range(numCourses)}
-        visited = set()
+        indegree = [0] * numCourses
+
         for nodeA, nodeB in prerequisites:
             preAdjacency[nodeA].append(nodeB)
+            indegree[nodeB] += 1
+
+        queue = deque()
+        noOfNodeVisisted =0
+
+        # Iterate through the list to find 0 in degree node
+        for idx in range(numCourses):
+            if indegree[idx] == 0:
+                queue.append(idx)
+
+        # reduce the adj nodes of all zero indregree nodes
+        while queue:
+            currentNode = queue.popleft()
+            noOfNodeVisisted += 1
+
+            for eachNeighbhor in preAdjacency[currentNode]:
+                indegree[eachNeighbhor] -= 1
+                if indegree[eachNeighbhor] == 0:
+                    queue.append(eachNeighbhor)
+        return noOfNodeVisisted == numCourses
 
         def dfs(nums):
 
@@ -24,7 +45,7 @@ class Solution:
 
             return True
 
-        for num in range(numCourses):
-            if not dfs(num):
-                return False
-        return True
+        # for num in range(numCourses):
+        #     if not dfs(num):
+        #         return False
+        # return True
