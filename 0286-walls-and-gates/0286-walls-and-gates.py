@@ -17,13 +17,12 @@ class Solution:
 
             for _ in range(len(queue)):
                 row, col = queue.popleft()
-               
                 # we return if the node has been visited already with a shorter distance and if its a gate or wall
                 if (
                     row < 0
-                    or row == rows
+                    or row >= rows
                     or col < 0
-                    or col == cols
+                    or col >= cols
                     or rooms[row][col] == -1
                     or (row, col) in visited
                 ):
