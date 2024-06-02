@@ -12,7 +12,7 @@ class Solution:
             indegree[nodeB] += 1
 
         queue = deque()
-        noOfNodeVisisted =0
+        noOfNodeVisisted = 0
 
         # Iterate through the list to find 0 in degree node
         for idx in range(numCourses):
@@ -30,22 +30,22 @@ class Solution:
                     queue.append(eachNeighbhor)
         return noOfNodeVisisted == numCourses
 
-        def dfs(nums):
+        # def dfs(nums):
 
-            if nums in visited:
-                return False
-            if preAdjacency[nums] == []:
-                return True
-            visited.add(nums)
-            for eachPreReq in preAdjacency[nums]:
-                if not dfs(eachPreReq):
-                    return False
-            visited.remove(nums)
-            preAdjacency[eachPreReq] = []
-
-            return True
-
-        # for num in range(numCourses):
-        #     if not dfs(num):
+        #     if nums in visited:
         #         return False
-        # return True
+        #     if preAdjacency[nums] == []:
+        #         return True
+        #     visited.add(nums)
+        #     for eachPreReq in preAdjacency[nums]:
+        #         if not dfs(eachPreReq):
+        #             return False
+        #     visited.remove(nums)
+        #     preAdjacency[eachPreReq] = []
+
+        #     return True
+
+        # # for num in range(numCourses):
+        # #     if not dfs(num):
+        # #         return False
+        # # return True
