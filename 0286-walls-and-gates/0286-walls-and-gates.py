@@ -17,7 +17,7 @@ class Solution:
 
             for _ in range(len(queue)):
                 row, col = queue.popleft()
-                print(queue)
+               
                 # we return if the node has been visited already with a shorter distance and if its a gate or wall
                 if (
                     row < 0
