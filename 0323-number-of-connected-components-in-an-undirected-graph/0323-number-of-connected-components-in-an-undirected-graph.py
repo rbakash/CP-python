@@ -13,13 +13,13 @@ class Solution:
             parentx = findParent(x)
             parenty = findParent(y)
             if parentx != parenty:
-                if rank[parentx] > rank[parenty]:
-                    parent[parenty] = parentx
-                elif rank[parentx] < rank[parenty]:
-                    parent[parentx] = parenty
-                else:
-                    parent[parenty] = parentx
-                    rank[parentx] += 1
+                # if rank[parentx] > rank[parenty]:
+                #     parent[parenty] = parentx
+                # elif rank[parentx] < rank[parenty]:
+                #     parent[parentx] = parenty
+                # else:
+                parent[parenty] = parentx
+                rank[parentx] += 1
                 return True
             else:
                 return False
