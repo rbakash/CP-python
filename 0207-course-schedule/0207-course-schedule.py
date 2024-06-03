@@ -8,8 +8,8 @@ class Solution:
         indegree = [0] * numCourses
 
         for nodeA, nodeB in prerequisites:
-            preAdjacency[nodeA].append(nodeB)
-            indegree[nodeB] += 1
+            preAdjacency[nodeB].append(nodeA)
+            indegree[nodeA] += 1
 
         queue = deque()
         noOfNodeVisisted = 0
