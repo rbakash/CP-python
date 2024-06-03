@@ -1,24 +1,23 @@
 class Solution:
-    def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        parent = [num for num in range(n)]
+    def countComponents(self, count: int, edges: List[List[int]]) -> int:
+        parent = [num for num in range(count)]
 
-        def find(x):
-            while x != parent[x]:
-                x = parent[x]
-            return x
+        def findParent(x):
+            # find the root parent
+            if x != parent[x]:
+                parent[x] = findParent(parent[x])
+            return parent[x]
 
         def union(x, y):
-            parentX = find(x)
-            parentY = find(y)
-            if parentX != parentY:
-                parent[parentX] = parentY
+            parentx = findParent(x)
+            parenty = findParent(y)
+            if parentx != parenty:
+                parent[parenty] = parentx
+                return True
+            else:
+                return False
 
-        for src, dest in edges:
-            union(src, dest)
-
-        disconnectedComponent = 0
-        for idx in range(n):
-            if idx == parent[idx]:
-                disconnectedComponent+=1
-
-        return disconnectedComponent
+        for start, end in edges:
+            if union(start, end):
+                count -= 1
+        return count
