@@ -1,6 +1,7 @@
 class Solution:
     def countComponents(self, count: int, edges: List[List[int]]) -> int:
         parent = [num for num in range(count)]
+        rank = [1] * count
 
         def findParent(x):
             # find the root parent
@@ -12,7 +13,13 @@ class Solution:
             parentx = findParent(x)
             parenty = findParent(y)
             if parentx != parenty:
-                parent[parenty] = parentx
+                if rank[parentx] > rank[parenty]:
+                    parent[parenty] = parentx
+                elif rank[parentx] < rank[parenty]:
+                    parent[parentx] = parenty
+                else:
+                    parent[parenty] = parentx
+                    rank[parentx] += 1
                 return True
             else:
                 return False
