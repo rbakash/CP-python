@@ -16,7 +16,7 @@ class Solution:
             if parentX == parentY:
                 return False
             else:
-                parent[parentX] = parentY
+                parent[parentY] = parentX
                 
                 return True
 
