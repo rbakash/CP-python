@@ -16,9 +16,9 @@ class Solution:
         for src, dest in edges:
             union(src, dest)
 
-        disconnectedComponent = set()
+        disconnectedComponent = 0
         for idx in range(n):
             if idx == parent[idx]:
-                disconnectedComponent.add(parent[idx])
+                disconnectedComponent+=1
 
-        return len(disconnectedComponent)
+        return disconnectedComponent
