@@ -5,6 +5,7 @@ Leetcode Python
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0286-walls-and-gates](https://github.com/rbakash/CP-python/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
@@ -50,3 +51,11 @@ Leetcode Python
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rbakash/CP-python/tree/master/0207-course-schedule) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
