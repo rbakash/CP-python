@@ -1,9 +1,10 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        start, end = 0, 0
+       
         maxProduct = float(-inf)
         prefixProduct = suffixProduct = 1
         n = len(nums)
+        
         for idx in range(len(nums)):
             if prefixProduct == 0:
                 prefixProduct = 1
