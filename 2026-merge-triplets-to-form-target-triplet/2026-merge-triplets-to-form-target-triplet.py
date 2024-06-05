@@ -1,6 +1,6 @@
 class Solution:
     def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
-        allIndexes = set()
+
         a,b,c,=0,0,0
         for eachTriplet in triplets:
 
