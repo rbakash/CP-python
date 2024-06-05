@@ -13,6 +13,7 @@ Leetcode Python
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
 | [0286-walls-and-gates](https://github.com/rbakash/CP-python/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
 # Breadth-First Search
@@ -75,3 +76,12 @@ Leetcode Python
 | [0045-jump-game-ii](https://github.com/rbakash/CP-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
+| [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+# Hash Table
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
