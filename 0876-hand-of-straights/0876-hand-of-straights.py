@@ -21,6 +21,3 @@ class Solution:
                         return False
                     heapq.heappop(minHeap)
         return True
-                    
-
-
