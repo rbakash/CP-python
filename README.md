@@ -12,6 +12,7 @@ Leetcode Python
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
 | [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/rbakash/CP-python/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
@@ -79,6 +80,7 @@ Leetcode Python
 | [0045-jump-game-ii](https://github.com/rbakash/CP-python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
@@ -92,10 +94,12 @@ Leetcode Python
 |  |
 | ------- |
 | [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 # Two Pointers
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 # String
 |  |
@@ -106,3 +110,11 @@ Leetcode Python
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
+# Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
