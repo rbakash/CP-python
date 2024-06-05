@@ -11,6 +11,7 @@ Leetcode Python
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
+| [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
 | [0286-walls-and-gates](https://github.com/rbakash/CP-python/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
@@ -90,6 +91,7 @@ Leetcode Python
 # Sorting
 |  |
 | ------- |
+| [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 # Two Pointers
 |  |
