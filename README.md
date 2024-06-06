@@ -8,6 +8,7 @@ Leetcode Python
 | [0045-jump-game-ii](https://github.com/rbakash/CP-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rbakash/CP-python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rbakash/CP-python/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
@@ -94,6 +95,7 @@ Leetcode Python
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rbakash/CP-python/tree/master/0056-merge-intervals) |
 | [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
