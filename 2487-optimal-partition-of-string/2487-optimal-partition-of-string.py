@@ -1,7 +1,7 @@
 class Solution:
     def partitionString(self, s: str) -> int:
         uniqueCharacter=set()
-        numberOfPartition =0
+        numberOfPartition =1
 
         for character in s:
             if character in uniqueCharacter:
@@ -10,7 +10,7 @@ class Solution:
             
             uniqueCharacter.add(character)
         
-        return numberOfPartition+1
+        return numberOfPartition
             
 
         
