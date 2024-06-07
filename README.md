@@ -121,3 +121,11 @@ Leetcode Python
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
+# Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/rbakash/CP-python/tree/master/1585-the-kth-factor-of-n) |
+# Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/rbakash/CP-python/tree/master/1585-the-kth-factor-of-n) |
