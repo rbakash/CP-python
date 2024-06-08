@@ -1,8 +1,11 @@
 class Solution:
     def getWinner(self, arr: List[int], k: int) -> int:
+        highestRatedPlayer = max(arr)
+        if k>= highestRatedPlayer:
+            return highestRatedPlayer
+
         queue=deque(arr)
         currentWinner = queue.popleft()
-        highestRatedPlayer = max(arr)
         winStreak =0
 
         while queue:
@@ -14,7 +17,7 @@ class Solution:
             else:
                 queue.append(opponent)
                 winStreak+=1
-            if winStreak == k or currentWinner==highestRatedPlayer:
+            if winStreak == k :
                 return currentWinner
         return 1
         
