@@ -23,6 +23,7 @@ Leetcode Python
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 # Breadth-First Search
@@ -154,3 +155,7 @@ Leetcode Python
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+# Simulation
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
