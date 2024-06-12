@@ -77,6 +77,7 @@ Leetcode Python
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rbakash/CP-python/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/rbakash/CP-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
@@ -115,6 +116,7 @@ Leetcode Python
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rbakash/CP-python/tree/master/0005-longest-palindromic-substring) |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
@@ -122,6 +124,7 @@ Leetcode Python
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rbakash/CP-python/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
