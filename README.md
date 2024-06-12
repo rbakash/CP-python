@@ -83,6 +83,7 @@ Leetcode Python
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rbakash/CP-python/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rbakash/CP-python/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 # Greedy
 |  |
@@ -115,11 +116,13 @@ Leetcode Python
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
+| [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 # String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
