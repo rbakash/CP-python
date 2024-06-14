@@ -10,6 +10,7 @@ Leetcode Python
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rbakash/CP-python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rbakash/CP-python/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/rbakash/CP-python/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
@@ -116,6 +117,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rbakash/CP-python/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/rbakash/CP-python/tree/master/0075-sort-colors) |
 | [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
@@ -123,6 +125,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rbakash/CP-python/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/rbakash/CP-python/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
