@@ -16,5 +16,3 @@ class Solution:
                 nums[secondIndex], nums[iterator] = nums[iterator], nums[secondIndex]
                 secondIndex -= 1
             else : iterator+=1
-
-        return None
