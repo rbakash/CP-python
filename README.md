@@ -12,6 +12,7 @@ Leetcode Python
 | [0057-insert-interval](https://github.com/rbakash/CP-python/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rbakash/CP-python/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rbakash/CP-python/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rbakash/CP-python/tree/master/0213-house-robber-ii) |
@@ -81,6 +82,7 @@ Leetcode Python
 | [0045-jump-game-ii](https://github.com/rbakash/CP-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rbakash/CP-python/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rbakash/CP-python/tree/master/0213-house-robber-ii) |
@@ -102,6 +104,7 @@ Leetcode Python
 # Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/rbakash/CP-python/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -125,6 +128,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rbakash/CP-python/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
@@ -165,3 +169,11 @@ Leetcode Python
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
+# Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
