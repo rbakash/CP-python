@@ -29,6 +29,7 @@ Leetcode Python
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
 # Breadth-First Search
 |  |
@@ -174,6 +175,7 @@ Leetcode Python
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 # Simulation
 |  |
 | ------- |
@@ -186,3 +188,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+# Bit Manipulation
+|  |
+| ------- |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
