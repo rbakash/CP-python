@@ -89,6 +89,7 @@ Leetcode Python
 | [0045-jump-game-ii](https://github.com/rbakash/CP-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rbakash/CP-python/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/rbakash/CP-python/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rbakash/CP-python/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rbakash/CP-python/tree/master/0198-house-robber) |
@@ -142,6 +143,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rbakash/CP-python/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/rbakash/CP-python/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
@@ -209,3 +211,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
+# Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/rbakash/CP-python/tree/master/0131-palindrome-partitioning) |
