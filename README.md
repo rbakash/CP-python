@@ -56,6 +56,7 @@ Leetcode Python
 | ------- |
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/rbakash/CP-python/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rbakash/CP-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0261-graph-valid-tree](https://github.com/rbakash/CP-python/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rbakash/CP-python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
@@ -149,6 +150,7 @@ Leetcode Python
 | [0131-palindrome-partitioning](https://github.com/rbakash/CP-python/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rbakash/CP-python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
@@ -196,6 +198,7 @@ Leetcode Python
 | ------- |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rbakash/CP-python/tree/master/0211-design-add-and-search-words-data-structure) |
 # Memoization
 |  |
 | ------- |
@@ -225,3 +228,4 @@ Leetcode Python
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rbakash/CP-python/tree/master/0211-design-add-and-search-words-data-structure) |
