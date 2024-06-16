@@ -21,6 +21,7 @@ Leetcode Python
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/rbakash/CP-python/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/rbakash/CP-python/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
@@ -80,6 +81,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rbakash/CP-python/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/rbakash/CP-python/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -123,6 +126,7 @@ Leetcode Python
 | [0075-sort-colors](https://github.com/rbakash/CP-python/tree/master/0075-sort-colors) |
 | [0252-meeting-rooms](https://github.com/rbakash/CP-python/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
 # Two Pointers
@@ -151,6 +155,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 # Prefix Sum
 |  |
 | ------- |
@@ -192,3 +197,15 @@ Leetcode Python
 |  |
 | ------- |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
+# Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
