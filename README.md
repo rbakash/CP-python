@@ -116,6 +116,7 @@ Leetcode Python
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rbakash/CP-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
@@ -147,6 +148,7 @@ Leetcode Python
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rbakash/CP-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/rbakash/CP-python/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
@@ -193,6 +195,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 # Memoization
 |  |
 | ------- |
@@ -218,3 +221,7 @@ Leetcode Python
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rbakash/CP-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/rbakash/CP-python/tree/master/0131-palindrome-partitioning) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
