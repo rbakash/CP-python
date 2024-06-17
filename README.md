@@ -28,6 +28,7 @@ Leetcode Python
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -68,12 +69,14 @@ Leetcode Python
 | [0130-surrounded-regions](https://github.com/rbakash/CP-python/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/rbakash/CP-python/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rbakash/CP-python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 # Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rbakash/CP-python/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/rbakash/CP-python/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rbakash/CP-python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 # Topological Sort
 |  |
 | ------- |
@@ -229,3 +232,7 @@ Leetcode Python
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rbakash/CP-python/tree/master/0211-design-add-and-search-words-data-structure) |
+# Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
