@@ -6,19 +6,7 @@ class Solution:
         for src, dest, weight in times:
             adjList[src].append([dest, weight])
 
-        # queue=deque()
-
-        # cost[k]=0
-        # queue.append(k)
-        # while queue:
-        #     currentNode = queue.popleft()
-
-        #     for neighborNode,neighborWeight in adjList[currentNode]:
-        #         if cost[neighborNode] > cost[currentNode]+neighborWeight:
-        #             cost[neighborNode] = cost[currentNode]+neighborWeight
-        #             queue.append(neighborNode)
-
-        # return max(cost) if max(cost) != float(inf) else -1
+      
 
         minHeap = [[0, k]]
         ans = 0
