@@ -1,23 +1,41 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        cost=[float('inf')]* (n+1)
-        cost[0]=0
+        cost = [float("inf")] * (n + 1)
+        cost[0] = 0
 
-        adjList=[[] for eachNode in range(n+1)]
+        adjList = [[] for eachNode in range(n + 1)]
         # build adj list
-        for src,dest,weight in times:
-            adjList[src].append([dest,weight])
+        for src, dest, weight in times:
+            adjList[src].append([dest, weight])
 
-        queue=deque()
+        # queue=deque()
 
-        cost[k]=0
-        queue.append(k)
-        while queue:
-            currentNode = queue.popleft()
-           
-            for neighborNode,neighborWeight in adjList[currentNode]:
-                if cost[neighborNode] > cost[currentNode]+neighborWeight:
-                    cost[neighborNode] = cost[currentNode]+neighborWeight
-                    queue.append(neighborNode)
+        # cost[k]=0
+        # queue.append(k)
+        # while queue:
+        #     currentNode = queue.popleft()
 
-        return max(cost) if max(cost) != float(inf) else -1
+        #     for neighborNode,neighborWeight in adjList[currentNode]:
+        #         if cost[neighborNode] > cost[currentNode]+neighborWeight:
+        #             cost[neighborNode] = cost[currentNode]+neighborWeight
+        #             queue.append(neighborNode)
+
+        # return max(cost) if max(cost) != float(inf) else -1
+
+        minHeap = []
+        ans = 0
+        visited = set()
+
+        heappush(minHeap, [0, k])
+        while minHeap:
+            currentWeight, currentNode = heappop(minHeap)
+            if currentNode in visited:
+                continue
+            ans = max(ans, currentWeight)
+            visited.add(currentNode)
+            for neighborNode, neighborWeight in adjList[currentNode]:
+                if neighborNode not in visited:
+                    heappush(
+                        minHeap, [neighborWeight + currentWeight, neighborNode]
+                    )
+        return ans if len(visited) == n else -1
