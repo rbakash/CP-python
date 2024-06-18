@@ -1,7 +1,5 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        cost = [float("inf")] * (n + 1)
-        cost[0] = 0
 
         adjList = defaultdict(list)
         # build adj list
