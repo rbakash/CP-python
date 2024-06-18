@@ -43,6 +43,7 @@ Leetcode Python
 | [0322-coin-change](https://github.com/rbakash/CP-python/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rbakash/CP-python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
 # Matrix
@@ -61,6 +62,7 @@ Leetcode Python
 | [0261-graph-valid-tree](https://github.com/rbakash/CP-python/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rbakash/CP-python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/rbakash/CP-python/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 # Union Find
@@ -76,6 +78,7 @@ Leetcode Python
 | [0207-course-schedule](https://github.com/rbakash/CP-python/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/rbakash/CP-python/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rbakash/CP-python/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 # Topological Sort
 |  |
@@ -167,6 +170,7 @@ Leetcode Python
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
 # Prefix Sum
 |  |
 | ------- |
@@ -236,3 +240,7 @@ Leetcode Python
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
+# Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
