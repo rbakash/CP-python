@@ -32,7 +32,8 @@ class Solution:
             visited.add(currentNode)
             for neighborNode, neighborWeight in adjList[currentNode]:
                 if neighborNode not in visited:
-                    heappush(
-                        minHeap, [neighborWeight + currentWeight, neighborNode]
-                    )
-        return ans if len(visited) == n else -1
+                    heappush(minHeap, [neighborWeight + currentWeight, neighborNode])
+        if len(visited) == n:
+            return ans 
+        else:
+            return -1
