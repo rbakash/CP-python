@@ -3,7 +3,7 @@ class Solution:
         cost = [float("inf")] * (n + 1)
         cost[0] = 0
 
-        adjList = [[] for eachNode in range(n + 1)]
+        adjList = defaultdict(list)
         # build adj list
         for src, dest, weight in times:
             adjList[src].append([dest, weight])
