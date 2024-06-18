@@ -24,7 +24,7 @@ class Solution:
         ans = 0
         visited = set()
 
-        heappush(minHeap, [0, k])
+        heappush(minHeap, (0, k))
         while minHeap:
             currentWeight, currentNode = heappop(minHeap)
             if currentNode in visited:
@@ -34,6 +34,6 @@ class Solution:
             for neighborNode, neighborWeight in adjList[currentNode]:
                 if neighborNode not in visited:
                     heappush(
-                        minHeap, [neighborWeight + currentWeight, neighborNode]
+                        minHeap, (neighborWeight + currentWeight, neighborNode)
                     )
         return ans if len(visited) == n else -1
