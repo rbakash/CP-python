@@ -31,6 +31,7 @@ Leetcode Python
 | [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rbakash/CP-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -130,6 +131,7 @@ Leetcode Python
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/rbakash/CP-python/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Leetcode Python
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
 # Two Pointers
 |  |
@@ -172,6 +175,7 @@ Leetcode Python
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Prefix Sum
 |  |
 | ------- |
@@ -202,6 +206,7 @@ Leetcode Python
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
+| [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Trie
 |  |
 | ------- |
