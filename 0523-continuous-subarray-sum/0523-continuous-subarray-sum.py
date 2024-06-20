@@ -5,10 +5,9 @@ class Solution:
 
         for index in range(len(nums)):
             prefixSum = (prefixSum + nums[index]) % k
-            if prefixSum in remainder:
-                if index - remainder[prefixSum] > 1:
-                    return True
-            else:
+            if prefixSum not in remainder:
                 remainder[prefixSum] = index
+            elif index - remainder[prefixSum] > 1:
+                return True
 
         return False
