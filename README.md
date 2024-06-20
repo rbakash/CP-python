@@ -130,6 +130,7 @@ Leetcode Python
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rbakash/CP-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/rbakash/CP-python/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
@@ -257,6 +258,7 @@ Leetcode Python
 # Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rbakash/CP-python/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rbakash/CP-python/tree/master/0211-design-add-and-search-words-data-structure) |
 # Minimum Spanning Tree
@@ -267,3 +269,11 @@ Leetcode Python
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/rbakash/CP-python/tree/master/0744-network-delay-time) |
+# Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rbakash/CP-python/tree/master/0146-lru-cache) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rbakash/CP-python/tree/master/0146-lru-cache) |
