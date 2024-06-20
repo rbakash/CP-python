@@ -33,6 +33,7 @@ Leetcode Python
 | [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rbakash/CP-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -122,6 +123,7 @@ Leetcode Python
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
 # Hash Table
 |  |
@@ -137,6 +139,7 @@ Leetcode Python
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/rbakash/CP-python/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Sorting
 |  |
@@ -241,6 +244,7 @@ Leetcode Python
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 # Quickselect
 |  |
 | ------- |
