@@ -23,6 +23,7 @@ Leetcode Python
 | [0322-coin-change](https://github.com/rbakash/CP-python/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
+| [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
@@ -128,6 +129,7 @@ Leetcode Python
 | [0139-word-break](https://github.com/rbakash/CP-python/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/rbakash/CP-python/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/rbakash/CP-python/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -184,9 +186,11 @@ Leetcode Python
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
+| [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
 | [1585-the-kth-factor-of-n](https://github.com/rbakash/CP-python/tree/master/1585-the-kth-factor-of-n) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rbakash/CP-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 # Number Theory
