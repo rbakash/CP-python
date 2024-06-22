@@ -1,9 +1,10 @@
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
-        sChar=set([charac for charac in s])
-        frequency  = defaultdict(int)
+
+        frequency  = {}
         for each in s:
-            frequency[each]+=1
+            frequency[each]= frequency.get(each,0 ) +1
+        
         result=""
 
         for eachCharacter in order:
