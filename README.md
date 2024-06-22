@@ -26,6 +26,7 @@ Leetcode Python
 | [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rbakash/CP-python/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
@@ -155,6 +156,7 @@ Leetcode Python
 | [0253-meeting-rooms-ii](https://github.com/rbakash/CP-python/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3334-apple-redistribution-into-boxes](https://github.com/rbakash/CP-python/tree/master/3334-apple-redistribution-into-boxes) |
@@ -226,6 +228,7 @@ Leetcode Python
 # Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Trie
@@ -283,3 +286,7 @@ Leetcode Python
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rbakash/CP-python/tree/master/0146-lru-cache) |
+# Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
