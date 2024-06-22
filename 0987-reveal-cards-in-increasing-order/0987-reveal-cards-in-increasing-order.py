@@ -8,7 +8,6 @@ class Solution:
         
         deck.sort()
 
-        # Put cards at correct index in result
         result = [0] * N
         for card in deck:
             # Reveal Card
