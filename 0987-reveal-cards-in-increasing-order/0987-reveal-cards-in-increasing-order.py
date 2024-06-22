@@ -3,7 +3,6 @@ class Solution:
         N = len(deck)
         queue = deque()
 
-        # Create a queue of indexes
         for i in range(N):
             queue.append(i)
         
