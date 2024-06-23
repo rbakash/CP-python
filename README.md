@@ -33,6 +33,7 @@ Leetcode Python
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2354-minimum-health-to-beat-game](https://github.com/rbakash/CP-python/tree/master/2354-minimum-health-to-beat-game) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -123,6 +124,7 @@ Leetcode Python
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2354-minimum-health-to-beat-game](https://github.com/rbakash/CP-python/tree/master/2354-minimum-health-to-beat-game) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
