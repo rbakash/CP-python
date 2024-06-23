@@ -173,6 +173,7 @@ Leetcode Python
 | [0647-palindromic-substrings](https://github.com/rbakash/CP-python/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rbakash/CP-python/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 # String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Leetcode Python
 | [0807-custom-sort-string](https://github.com/rbakash/CP-python/tree/master/0807-custom-sort-string) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rbakash/CP-python/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 # Stack
 |  |
 | ------- |
