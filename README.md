@@ -26,6 +26,7 @@ Leetcode Python
 | [0523-continuous-subarray-sum](https://github.com/rbakash/CP-python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rbakash/CP-python/tree/master/0560-subarray-sum-equals-k) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+| [0974-reorder-data-in-log-files](https://github.com/rbakash/CP-python/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
@@ -160,6 +161,7 @@ Leetcode Python
 | [0347-top-k-frequent-elements](https://github.com/rbakash/CP-python/tree/master/0347-top-k-frequent-elements) |
 | [0807-custom-sort-string](https://github.com/rbakash/CP-python/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+| [0974-reorder-data-in-log-files](https://github.com/rbakash/CP-python/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -189,6 +191,7 @@ Leetcode Python
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/rbakash/CP-python/tree/master/0807-custom-sort-string) |
+| [0974-reorder-data-in-log-files](https://github.com/rbakash/CP-python/tree/master/0974-reorder-data-in-log-files) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rbakash/CP-python/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
