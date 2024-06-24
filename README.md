@@ -33,6 +33,7 @@ Leetcode Python
 | [1428-jump-game-iii](https://github.com/rbakash/CP-python/tree/master/1428-jump-game-iii) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/rbakash/CP-python/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1706-min-cost-to-connect-all-points](https://github.com/rbakash/CP-python/tree/master/1706-min-cost-to-connect-all-points) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/rbakash/CP-python/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2354-minimum-health-to-beat-game](https://github.com/rbakash/CP-python/tree/master/2354-minimum-health-to-beat-game) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
@@ -124,6 +125,7 @@ Leetcode Python
 | [0678-valid-parenthesis-string](https://github.com/rbakash/CP-python/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/rbakash/CP-python/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rbakash/CP-python/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2354-minimum-health-to-beat-game](https://github.com/rbakash/CP-python/tree/master/2354-minimum-health-to-beat-game) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
@@ -163,6 +165,7 @@ Leetcode Python
 | [0876-hand-of-straights](https://github.com/rbakash/CP-python/tree/master/0876-hand-of-straights) |
 | [0974-reorder-data-in-log-files](https://github.com/rbakash/CP-python/tree/master/0974-reorder-data-in-log-files) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/rbakash/CP-python/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3334-apple-redistribution-into-boxes](https://github.com/rbakash/CP-python/tree/master/3334-apple-redistribution-into-boxes) |
