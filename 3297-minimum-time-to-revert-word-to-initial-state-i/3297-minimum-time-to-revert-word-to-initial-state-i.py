@@ -4,6 +4,6 @@ class Solution:
         time =1
         for i in range(k, n, k):
             if word[i:] == word[:n-i]:
-                return time
+                break
             time+=1
         return time
