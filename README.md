@@ -207,6 +207,7 @@ Leetcode Python
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rbakash/CP-python/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rbakash/CP-python/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 # Stack
 |  |
 | ------- |
@@ -314,3 +315,15 @@ Leetcode Python
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rbakash/CP-python/tree/master/0987-reveal-cards-in-increasing-order) |
+# Rolling Hash
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rbakash/CP-python/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+# String Matching
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rbakash/CP-python/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+# Hash Function
+|  |
+| ------- |
+| [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rbakash/CP-python/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
