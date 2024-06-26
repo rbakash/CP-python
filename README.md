@@ -45,6 +45,7 @@ Leetcode Python
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rbakash/CP-python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rbakash/CP-python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Leetcode Python
 | [3334-apple-redistribution-into-boxes](https://github.com/rbakash/CP-python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rbakash/CP-python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rbakash/CP-python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Two Pointers
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Leetcode Python
 | [0768-partition-labels](https://github.com/rbakash/CP-python/tree/master/0768-partition-labels) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rbakash/CP-python/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rbakash/CP-python/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # String
 |  |
 | ------- |
