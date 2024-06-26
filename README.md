@@ -44,6 +44,7 @@ Leetcode Python
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rbakash/CP-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/rbakash/CP-python/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rbakash/CP-python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Leetcode Python
 | [0286-walls-and-gates](https://github.com/rbakash/CP-python/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rbakash/CP-python/tree/master/0417-pacific-atlantic-water-flow) |
 | [1036-rotting-oranges](https://github.com/rbakash/CP-python/tree/master/1036-rotting-oranges) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rbakash/CP-python/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 # Depth-First Search
 |  |
 | ------- |
