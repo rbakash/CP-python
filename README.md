@@ -38,6 +38,7 @@ Leetcode Python
 | [2354-minimum-health-to-beat-game](https://github.com/rbakash/CP-python/tree/master/2354-minimum-health-to-beat-game) |
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rbakash/CP-python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3334-apple-redistribution-into-boxes](https://github.com/rbakash/CP-python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rbakash/CP-python/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -248,6 +249,7 @@ Leetcode Python
 |  |
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rbakash/CP-python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 # Simulation
 |  |
