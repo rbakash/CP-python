@@ -39,6 +39,7 @@ Leetcode Python
 | [2565-merge-operations-to-turn-array-into-a-palindrome](https://github.com/rbakash/CP-python/tree/master/2565-merge-operations-to-turn-array-into-a-palindrome) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rbakash/CP-python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rbakash/CP-python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3334-apple-redistribution-into-boxes](https://github.com/rbakash/CP-python/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rbakash/CP-python/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -158,6 +159,7 @@ Leetcode Python
 | [2405-minimum-number-of-keypresses](https://github.com/rbakash/CP-python/tree/master/2405-minimum-number-of-keypresses) |
 | [2487-optimal-partition-of-string](https://github.com/rbakash/CP-python/tree/master/2487-optimal-partition-of-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/rbakash/CP-python/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rbakash/CP-python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/rbakash/CP-python/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 # Sorting
 |  |
@@ -250,6 +252,7 @@ Leetcode Python
 | ------- |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/rbakash/CP-python/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rbakash/CP-python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rbakash/CP-python/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/rbakash/CP-python/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 # Simulation
 |  |
