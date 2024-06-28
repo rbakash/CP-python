@@ -11,7 +11,7 @@ class Solution:
 
             uniqueCharacters[currentCharacter]=1 + uniqueCharacters.get(currentCharacter,0)
 
-            while uniqueCharacterCount > k:
+            if uniqueCharacterCount > k:
                 uniqueCharacters[s[start]]-=1
                 if uniqueCharacters[s[start]] ==0:
                     uniqueCharacterCount-=1
