@@ -1,48 +1,77 @@
 # Problem Solving Progress
 
-A table to track the number of problems solved for various topics and set targets.
+URL - https://interviewnoodle.com/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1
 
-| Topic Name                            | Number of Problems Solved | Target |
-| ------------------------------------- | :-----------------------: | :----: |
-| Dynamic Programming                   |                           |        |
-| Depth-First Search                    |                           |        |
-| Sorting                               |                           |        |
-| Greedy                                |                           |        |
-| Breadth-First Search                  |                           |        |
-| Tree                                  |                           |        |
-| Database                              |                           |        |
-| Binary Search                         |                           |        |
-| Matrix                                |                           |        |
-| Two Pointers                          |                           |        |
-| Bit Manipulation                      |                           |        |
-| Stack                                 |                           |        |
-| Design                                |                           |        |
-| Heap (Priority Queue)                 |                           |        |
-| Graph                                 |                           |        |
-| Backtracking                          |                           |        |
-| Simulation                            |                           |        |
-| Prefix Sum                            |                           |        |
-| Counting                              |                           |        |
-| Linked List                           |                           |        |
-| Sliding Window                        |                           |        |
-| Union Find                            |                           |        |
-| Topological Sort                      |                           |        |
-| Trie                                  |                           |        |
-| Divide and Conquer                    |                           |        |
-| Binary Search Tree                    |                           |        |
-| Recursion                             |                           |        |
-| Monotonic Stack                       |                           |        |
-| Geometry                              |                           |        |
-| Game Theory                           |                           |        |
-| Bitmask                               |                           |        |
-| Interactive                           |                           |        |
-| Rolling Hash                          |                           |        |
-| Shortest Path                         |                           |        |
-| Combinatorics                         |                           |        |
-| Randomized                            |                           |        |
-| Data Stream                           |                           |        |
-| Eulerian Circuit                      |                           |        |
-| Biconnected Component                 |                           |        |
+A table to track the number of problems solved for various topics and set targets.
+# LeetCode Topic Problem Sets
+
+This repository provides links to LeetCode problem sets categorized by various topics. Each topic links to its corresponding problem set on LeetCode.
+
+## Problem Sets by Topic
+
+| Topic                       | Link                                                                                      | Solved | Target | Day |
+|-----------------------------|-------------------------------------------------------------------------------------------|--------|--------|-----|
+| Dynamic Programming         | [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)                      |        |        |     |
+| Sorting                     | [Sorting](https://leetcode.com/tag/sorting/)                                              |        |        |     |
+| Greedy                      | [Greedy](https://leetcode.com/tag/greedy/)                                                |        |        |     |
+| Depth-First Search          | [Depth-First Search](https://leetcode.com/tag/depth-first-search/)                        |        |        |     |
+| Binary Search               | [Binary Search](https://leetcode.com/tag/binary-search/)                                  |        |        |     |
+| Tree                        | [Tree](https://leetcode.com/tag/tree/)                                                    |        |        |     |
+| Breadth-First Search        | [Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)                    |        |        |     |
+| Two Pointers                | [Two Pointers](https://leetcode.com/tag/two-pointers/)                                    |        |        |     |
+| Binary Tree                 | [Binary Tree](https://leetcode.com/tag/binary-tree/)                                      |        |        |     |
+| Heap (Priority Queue)       | [Heap (Priority Queue)](https://leetcode.com/tag/heap-priority-queue/)                    |        |        |     |
+| Prefix Sum                  | [Prefix Sum](https://leetcode.com/tag/prefix-sum/)                                        |        |        |     |
+| Stack                       | [Stack](https://leetcode.com/tag/stack/)                                                  |        |        |     |
+| Simulation                  | [Simulation](https://leetcode.com/tag/simulation/)                                        |        |        |     |
+| Counting                    | [Counting](https://leetcode.com/tag/counting/)                                            |        |        |     |
+| Design                      | [Design](https://leetcode.com/tag/design/)                                                |        |        |     |
+| Sliding Window              | [Sliding Window](https://leetcode.com/tag/sliding-window/)                                |        |        |     |
+| Backtracking                | [Backtracking](https://leetcode.com/tag/backtracking/)                                    |        |        |     |
+| Enumeration                 | [Enumeration](https://leetcode.com/tag/enumeration/)                                      |        |        |     |
+| Union Find                  | [Union Find](https://leetcode.com/tag/union-find/)                                        |        |        |     |
+| Ordered Set                 | [Ordered Set](https://leetcode.com/tag/ordered-set/)                                      |        |        |     |
+| Monotonic Stack             | [Monotonic Stack](https://leetcode.com/tag/monotonic-stack/)                              |        |        |     |
+| Trie                        | [Trie](https://leetcode.com/tag/trie/)                                                    |        |        |     |
+| Divide and Conquer          | [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)                        |        |        |     |
+| Segment Tree                | [Segment Tree](https://leetcode.com/tag/segment-tree/)                                    |        |        |     |
+| Bitmask                     | [Bitmask](https://leetcode.com/tag/bitmask/)                                              |        |        |     |
+| Binary Search Tree          | [Binary Search Tree](https://leetcode.com/tag/binary-search-tree/)                        |        |        |     |
+| Memoization                 | [Memoization](https://leetcode.com/tag/memoization/)                                      |        |        |     |
+| Binary Indexed Tree         | [Binary Indexed Tree](https://leetcode.com/tag/binary-indexed-tree/)                      |        |        |     |
+| Combinatorics               | [Combinatorics](https://leetcode.com/tag/combinatorics/)                                  |        |        |     |
+| Topological Sort            | [Topological Sort](https://leetcode.com/tag/topological-sort/)                            |        |        |     |
+| String Matching             | [String Matching](https://leetcode.com/tag/string-matching/)                              |        |        |     |
+| Shortest Path               | [Shortest Path](https://leetcode.com/tag/shortest-path/)                                  |        |        |     |
+| Rolling Hash                | [Rolling Hash](https://leetcode.com/tag/rolling-hash/)                                    |        |        |     |
+| Game Theory                 | [Game Theory](https://leetcode.com/tag/game-theory/)                                      |        |        |     |
+| Interactive                 | [Interactive](https://leetcode.com/tag/interactive/)                                      |        |        |     |
+| Monotonic Queue             | [Monotonic Queue](https://leetcode.com/tag/monotonic-queue/)                              |        |        |     |
+| Randomized                  | [Randomized](https://leetcode.com/tag/randomized/)                                        |        |        |     |
+| Merge Sort                  | [Merge Sort](https://leetcode.com/tag/merge-sort/)                                        |        |        |     |
+| Doubly-Linked List          | [Doubly-Linked List](https://leetcode.com/tag/doubly-linked-list/)                        |        |        |     |
+| Quickselect                 | [Quickselect](https://leetcode.com/tag/quickselect/)                                      |        |        |     |
+| Counting Sort               | [Counting Sort](https://leetcode.com/tag/counting-sort/)                                  |        |        |     |
+| Bucket Sort                 | [Bucket Sort](https://leetcode.com/tag/bucket-sort/)                                      |        |        |     |
+| Suffix Array                | [Suffix Array](https://leetcode.com/tag/suffix-array/)                                    |        |        |     |
+| Minimum Spanning Tree       | [Minimum Spanning Tree](https://leetcode.com/tag/minimum-spanning-tree/)                  |        |        |     |
+| Line Sweep                  | [Line Sweep](https://leetcode.com/tag/line-sweep/)                                        |        |        |     |
+| Reservoir Sampling          | [Reservoir Sampling](https://leetcode.com/tag/reservoir-sampling/)                        |        |        |     |
+| Strongly Connected Component| [Strongly Connected Component](https://leetcode.com/tag/strongly-connected-component/)    |        |        |     |
+| Eulerian Circuit            | [Eulerian Circuit](https://leetcode.com/tag/eulerian-circuit/)                            |        |        |     |
+| Radix Sort                  | [Radix Sort](https://leetcode.com/tag/radix-sort/)                                        |        |        |     |
+| Rejection Sampling          | [Rejection Sampling](https://leetcode.com/tag/rejection-sampling/)                        |        |        |     |
+| Biconnected Component       | [Biconnected Component](https://leetcode.com/tag/biconnected-component/)                  |        |        |     |
+
+## How to Use
+
+1. Click on the link of the topic you're interested in.
+2. Solve the problems listed under that topic on LeetCode.
+3. Update the "Solved" column with the number of problems you've solved.
+4. Set your "Target" number of problems to solve for each topic.
+5. Track the "Day" you worked on each topic.
+
+Feel free to contribute by adding more topics, updating the solved problems, or improving the structure of this repository.
 
 
 # Array
