@@ -22,15 +22,14 @@ class Solution:
                     end += 1
                 else:
 
-                    while currentUnique > currentUniqueMax:
+                    # while currentUnique > currentUniqueMax:
                         if frequency[s[start]] == k:
                             noOfCharAtLeastKtimes -= 1
                         frequency[s[start]] -= 1
                         if frequency[s[start]] == 0:
                             currentUnique -= 1
                         start += 1
-                    print(frequency)
-                    print(noOfCharAtLeastKtimes, currentUnique)
+
                 if (
                     currentUnique == currentUniqueMax
                     and currentUnique == noOfCharAtLeastKtimes
