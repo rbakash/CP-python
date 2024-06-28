@@ -1,5 +1,48 @@
-# CP-python
-Leetcode Python
+# Problem Solving Progress
+
+A table to track the number of problems solved for various topics and set targets.
+
+| Topic Name                            | Number of Problems Solved | Target |
+| ------------------------------------- | :-----------------------: | :----: |
+| Dynamic Programming                   |                           |        |
+| Depth-First Search                    |                           |        |
+| Sorting                               |                           |        |
+| Greedy                                |                           |        |
+| Breadth-First Search                  |                           |        |
+| Tree                                  |                           |        |
+| Database                              |                           |        |
+| Binary Search                         |                           |        |
+| Matrix                                |                           |        |
+| Two Pointers                          |                           |        |
+| Bit Manipulation                      |                           |        |
+| Stack                                 |                           |        |
+| Design                                |                           |        |
+| Heap (Priority Queue)                 |                           |        |
+| Graph                                 |                           |        |
+| Backtracking                          |                           |        |
+| Simulation                            |                           |        |
+| Prefix Sum                            |                           |        |
+| Counting                              |                           |        |
+| Linked List                           |                           |        |
+| Sliding Window                        |                           |        |
+| Union Find                            |                           |        |
+| Topological Sort                      |                           |        |
+| Trie                                  |                           |        |
+| Divide and Conquer                    |                           |        |
+| Binary Search Tree                    |                           |        |
+| Recursion                             |                           |        |
+| Monotonic Stack                       |                           |        |
+| Geometry                              |                           |        |
+| Game Theory                           |                           |        |
+| Bitmask                               |                           |        |
+| Interactive                           |                           |        |
+| Rolling Hash                          |                           |        |
+| Shortest Path                         |                           |        |
+| Combinatorics                         |                           |        |
+| Randomized                            |                           |        |
+| Data Stream                           |                           |        |
+| Eulerian Circuit                      |                           |        |
+| Biconnected Component                 |                           |        |
 
 
 # Array
