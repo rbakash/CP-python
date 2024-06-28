@@ -7,7 +7,7 @@ class Solution:
                 noOfZeros +=1
             
             # Shrink the window to just have k number of zeros
-            while noOfZeros > k:
+            if noOfZeros > k:
                 if nums[start]==0:
                     noOfZeros-=1
                 start+=1
