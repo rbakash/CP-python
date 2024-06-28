@@ -5,7 +5,7 @@ class Solution:
         for end, num in enumerate(nums):
             currentSum += nums[end]
             noOfOperations = nums[end] * (end - start + 1) - currentSum
-            while noOfOperations > k:
+            if noOfOperations > k:
                 currentSum -= nums[start]
                 start += 1
                 noOfOperations = nums[end] * (end - start + 1) - currentSum
