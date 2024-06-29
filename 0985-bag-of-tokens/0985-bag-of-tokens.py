@@ -12,5 +12,5 @@ class Solution:
                 high-=1
                 score-=1
             else:
-                return score
+                break
         return score
