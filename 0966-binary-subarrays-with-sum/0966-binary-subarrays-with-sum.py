@@ -1,11 +1,9 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
         # check for all zero and goal as 0
-        total = sum(nums)
+        
         n = len(nums)
-        if total == 0 and goal == 0:
-            return (n * (n + 1)) // 2
-
+        
         start, noOfSubArray, currentSum = 0, 0, 0
         prefixZero = 0
 
