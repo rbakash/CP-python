@@ -419,6 +419,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -468,6 +469,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
+| [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -475,4 +477,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
