@@ -1,7 +1,7 @@
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
 
-        # See if you can make c from numbers
+        # See if you can make c from numbers till sqrt 
         start,end = 0,ceil(sqrt(c))
         while start <= end:
             square = start**2 + end**2
