@@ -8,10 +8,8 @@ class Solution:
             v1Num = version1[index] if index < len(version1) else 0
             v2Num = version2[index] if index < len(version2) else 0
 
-            if v1Num < v2Num:
-                return -1
-            elif v1Num > v2Num:
-                return 1
+            if v1Num != v2Num:
+                return 1 if v1Num > v2Num else -1
 
         return 0
 
