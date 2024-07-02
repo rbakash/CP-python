@@ -1,8 +1,8 @@
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
+        # normal approach
         version1 = [int(version) for version in version1.split(".")]
         version2 = [int(version) for version in version2.split(".")]
-        # isV1Fewer = len(version1) < len(version2)
 
         for index in range(max(len(version1), len(version2))):
             v1Num = version1[index] if index < len(version1) else 0
@@ -15,12 +15,7 @@ class Solution:
 
         return 0
 
-        # index = min(len(version1), len(version2))
-        # total = sum(version2[index:] if isV1Fewer else version1[index:])
-        # if total == 0 or (len(version2) == len(version1)):
-        #     return 0
-        # return -1 if isV1Fewer else 1
-
+        # 2 pointer 
         v1Iterator, v2Iterator = 0, 0
         while v1Iterator < len(version1) or v2Iterator < len(version2):
             v1Num, v2Num = 0, 0
