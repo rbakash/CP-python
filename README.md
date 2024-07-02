@@ -410,6 +410,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
@@ -452,6 +453,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0165-compare-version-numbers](https://github.com/rbakash/CP-python/tree/master/0165-compare-version-numbers) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
 ## Divide and Conquer
@@ -488,4 +490,24 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
