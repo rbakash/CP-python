@@ -1,12 +1,19 @@
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
-        # version1 = [int(version) for version in version1.split(".")]
-        # version2 = [int(version) for version in version2.split(".")]
+        version1 = [int(version) for version in version1.split(".")]
+        version2 = [int(version) for version in version2.split(".")]
         # isV1Fewer = len(version1) < len(version2)
 
-        # for index in range(min(len(version1), len(version2))):
-        #     if version1[index] != version2[index]:
-        #         return 1 if version1[index] > version2[index] else -1
+        for index in range(max(len(version1), len(version2))):
+            v1Num = version1[index] if index < len(version1) else 0
+            v2Num = version2[index] if index < len(version2) else 0
+
+            if v1Num < v2Num:
+                return -1
+            elif v1Num > v2Num:
+                return 1
+
+        return 0
 
         # index = min(len(version1), len(version2))
         # total = sum(version2[index:] if isV1Fewer else version1[index:])
