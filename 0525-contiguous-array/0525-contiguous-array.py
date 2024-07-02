@@ -1,7 +1,6 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        frequency = defaultdict(int)
-        # frequency[0] = -1
+        frequency = {}
         count, maxLength = 0, 0
 
         for index in range(len(nums)):
