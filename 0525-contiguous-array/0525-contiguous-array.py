@@ -5,12 +5,10 @@ class Solution:
         count, maxLength = 0, 0
 
         for index in range(len(nums)):
-            if nums[index] == 0:
-                count -= 1
-            else:
-                count += 1
-            if count ==0:
-                maxLength = index+1
+
+            count += 1 if nums[index] else -1
+            if count == 0:
+                maxLength = index + 1
             elif count in frequency:
                 maxLength = max(maxLength, (index - frequency[count]))
             else:
