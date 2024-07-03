@@ -13,7 +13,7 @@ class Solution:
                         break
                     tempBlue -= level
                 else:
-                    if tempRed <= 0 or tempRed < level:
+                    if tempRed < level:
                         break
                     tempRed -= level
                 level += 1
