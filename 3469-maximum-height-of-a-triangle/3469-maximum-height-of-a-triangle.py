@@ -6,10 +6,10 @@ class Solution:
             level = 1
             tempRed = red
             tempBlue = blue
-            while tempRed >= level or tempBlue >= level:
+            while True:
 
                 if not isRed:
-                    if tempBlue <= 0 or tempBlue < level:
+                    if tempBlue < level:
                         break
                     tempBlue -= level
                 else:
