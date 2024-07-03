@@ -18,7 +18,6 @@ class Solution:
                     tempRed -= level
                 level += 1
                 isRed = not isRed
-                print(isRed, level, tempRed, blue)
-            print("for ", index)
+
             maxLength = max(maxLength, level - 1)
         return maxLength
