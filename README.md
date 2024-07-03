@@ -419,6 +419,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -515,4 +516,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
