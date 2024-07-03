@@ -418,6 +418,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
@@ -520,4 +521,16 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
