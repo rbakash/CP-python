@@ -503,6 +503,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -551,8 +552,10 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
