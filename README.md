@@ -417,6 +417,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
@@ -491,10 +492,12 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 ## Math
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 ## Depth-First Search
 |  |
@@ -540,4 +543,16 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
+## Stack
+|  |
+| ------- |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+## Tree
+|  |
+| ------- |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+## Binary Tree
+|  |
+| ------- |
+| [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 <!---LeetCode Topics End-->
