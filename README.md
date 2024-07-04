@@ -459,6 +459,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
+| [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 ## Divide and Conquer
 |  |
