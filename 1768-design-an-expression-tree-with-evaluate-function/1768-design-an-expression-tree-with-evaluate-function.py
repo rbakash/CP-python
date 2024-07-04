@@ -17,7 +17,7 @@ class EvalNode(Node):
         self.right= right
         self.value = value
     def evaluate(self)->int:
-        if self.value.isnumeric():
+        if self.value.isdigit():
             return self.value
         else:
             leftValue = self.left.evaluate()
@@ -42,8 +42,8 @@ and returns the expression tree representing it as a Node.
 class TreeBuilder(object):
     def buildTree(self, postfix: List[str]) -> 'Node':
         stack=[]
-        for eachToken in postfix:
-            if eachToken.isnumeric():
+        for eachToken in (postfix):
+            if eachToken.isdigit():
                 stack.append(EvalNode(eachToken))
             else:
                 operand2,operand1 = stack.pop(),stack.pop()
