@@ -8,7 +8,6 @@ class Solution:
             currentLoad,daysNeeded =0,1
             for index in range(len(weights)):
                 currentLoad += weights[index]
-                # remainingWeight += weights[index]
                 if currentLoad > currentShipCapacity:
                     currentLoad = weights[index]
                     daysNeeded += 1
