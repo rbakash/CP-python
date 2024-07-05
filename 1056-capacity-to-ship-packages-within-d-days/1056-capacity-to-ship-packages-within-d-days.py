@@ -1,7 +1,6 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        
-        totalWeight = sum(weights)
+  
         daysNeeded, remainingWeight = 1, 0
 
         def canPackageBeShipped(currentShipCapacity):
@@ -14,7 +13,7 @@ class Solution:
             return daysNeeded <= days
         
         # perform binary search
-        low,high  = max(weights),totalWeight
+        low,high  = max(weights),sum(weights)
         
         while low <high:
             mid = low +(high-low)//2
