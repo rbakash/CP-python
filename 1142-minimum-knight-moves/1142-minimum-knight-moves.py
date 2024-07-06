@@ -15,8 +15,7 @@ class Solution:
         visited = set()
         steps = 0
         while queue:
-           # currentLevel = 1
-            #for eachLevel in range(currentLevel):
+
             currentX, currentY,steps = queue.popleft()
             if (x,y) == (currentX,currentY):
                 return steps
