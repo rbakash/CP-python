@@ -4,7 +4,9 @@ class Solution:
             totalCars = 0
             for rank in ranks:
                 totalCars += math.floor((time // rank) ** 0.5)
-            return totalCars < cars
+                if totalCars >= cars:
+                    return False
+            return True
 
         # binary search
         low, high = 1, max(ranks) * (cars) ** 2
