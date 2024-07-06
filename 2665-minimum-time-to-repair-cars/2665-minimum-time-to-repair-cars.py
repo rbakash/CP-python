@@ -10,10 +10,12 @@ class Solution:
 
         # binary search
         low, high = 1, max(ranks) * (cars) ** 2
+        answer = -1
         while low <= high:
             mid = low + (high - low) // 2
             if calculateNCars(mid):
                 low = mid + 1
             else:
+                answer=mid
                 high = mid - 1
-        return low
+        return answer
