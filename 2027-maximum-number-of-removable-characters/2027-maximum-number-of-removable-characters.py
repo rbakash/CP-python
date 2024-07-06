@@ -2,8 +2,8 @@ class Solution:
     def maximumRemovals(self, s: str, p: str, removable: List[int]) -> int:
         char = list(s)
         def isSubsequence(mid) -> bool:
-            # removedIndices = removable[:mid]
-            removedIndices = {removable[i] for i in range(mid)}
+            removedIndices = set(removable[:mid])
+            # removedIndices = {removable[i] for i in range(mid)}
             p1,p2 =0,0
             while p1< len(s) and p2<len(p):
                 if p1 not in removedIndices:
