@@ -1,30 +1,29 @@
 class Solution:
     def minKnightMoves(self, x: int, y: int) -> int:
-     # All 8 possible moves a knight can make
-        directions = [
-            (2, 1), (1, 2), (-1, 2), (-2, 1),
-            (-2, -1), (-1, -2), (1, -2), (2, -1)
+        movements = [
+            (2, 1),
+            (1, 2),
+            (-1, 2),
+            (-2, 1),
+            (-2, -1),
+            (-1, -2),
+            (1, -2),
+            (2, -1),
         ]
-
-        # Use absolute values for symmetry
-        x, y = abs(x), abs(y)
-        
-        # BFS initialization
-        queue = deque([(0, 0, 0)])  # (current_x, current_y, steps)
-        visited = set((0, 0))
-        
+        queue = deque()
+        queue.append((0, 0,0))
+        visited = set()
+        steps = 0
         while queue:
-            cur_x, cur_y, steps = queue.popleft()
-            
-            # If we reach the target, return the number of steps
-            if cur_x == x and cur_y == y:
+           # currentLevel = 1
+            #for eachLevel in range(currentLevel):
+            currentX, currentY,steps = queue.popleft()
+            if (x,y) == (currentX,currentY):
                 return steps
+            for nextX, nextY in movements:
+                newX, newY = (currentX + nextX), (currentY + nextY)
+                if (newX, newY) not in visited:
+                    queue.append((newX, newY,steps+1))
+                    visited.add((newX, newY))
             
-            # Try all possible moves
-            for dx, dy in directions:
-                new_x, new_y = cur_x + dx, cur_y + dy
-                
-                # Only add new position to queue if it hasn't been visited
-                if (new_x, new_y) not in visited and -2 <= new_x <= x + 2 and -2 <= new_y <= y + 2:
-                    visited.add((new_x, new_y))
-                    queue.append((new_x, new_y, steps + 1))
+        return 0
