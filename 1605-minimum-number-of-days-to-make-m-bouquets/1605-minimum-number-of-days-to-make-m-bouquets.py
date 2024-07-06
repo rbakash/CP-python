@@ -17,7 +17,7 @@ class Solution:
             return noOfBoquet
 
         # Binary search
-        low, high = 1, max(bloomDay)
+        low, high = min(bloomDay), max(bloomDay)
         minDays = -1
         while low <= high:
             mid = low + (high - low) // 2
