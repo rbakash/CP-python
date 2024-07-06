@@ -520,6 +520,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+| [1142-minimum-knight-moves](https://github.com/rbakash/CP-python/tree/master/1142-minimum-knight-moves) |
 ## Union Find
 |  |
 | ------- |
