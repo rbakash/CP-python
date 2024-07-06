@@ -14,6 +14,8 @@ class Solution:
         queue.append((0, 0,0))
         visited = set()
         steps = 0
+        x=abs(x)
+        y=abs(y)
         while queue:
 
             currentX, currentY,steps = queue.popleft()
@@ -21,7 +23,7 @@ class Solution:
                 return steps
             for nextX, nextY in movements:
                 newX, newY = (currentX + nextX), (currentY + nextY)
-                if (newX, newY) not in visited:
+                if (newX, newY) not in visited and -2 <= newX <= x + 2 and -2 <= newY <= y + 2:
                     queue.append((newX, newY,steps+1))
                     visited.add((newX, newY))
             
