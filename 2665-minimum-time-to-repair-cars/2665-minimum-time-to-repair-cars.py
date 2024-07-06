@@ -4,7 +4,6 @@ class Solution:
             totalCars = 0
             for rank in ranks:
                 totalCars += math.floor((time // rank) ** 0.5)
-            print(totalCars,time)
             return totalCars < cars
 
         # binary search
