@@ -533,6 +533,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -541,6 +542,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1142-minimum-knight-moves](https://github.com/rbakash/CP-python/tree/master/1142-minimum-knight-moves) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Union Find
 |  |
 | ------- |
@@ -590,6 +592,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Tree
 |  |
 | ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
