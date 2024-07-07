@@ -15,7 +15,7 @@ class Solution:
                 newRow,newColumn =  currentRow+rowOffset, currentColumn + colOffset
                 # print(newRow,newColumn)
                 # print(currentRow,currentColumn)
-                if newRow >=0 and newRow < rows and newColumn >= 0 and newColumn < columns and grid[newRow][newColumn]==1:
+                if newRow >=0 and newRow < rows and newColumn >= 0 and newColumn < columns:
                     dfs(newRow,newColumn)
             return
 
