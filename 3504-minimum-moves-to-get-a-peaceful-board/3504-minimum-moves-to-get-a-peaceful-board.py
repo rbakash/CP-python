@@ -3,9 +3,11 @@ class Solution:
         sortedRows = sorted(rooks, key=lambda x: x[0])
         sortedCols = sorted(rooks, key=lambda x: x[1])
         moves, row = 0, 0
+        rowa, cola = zip(*rooks)
+        print(rowa, cola)
         for index in range(len(rooks)):
-            moves += abs(sortedRows[index][0] - row) 
+            moves += abs(sortedRows[index][0] - row)
             moves += abs(sortedCols[index][1] - row)
             row += 1
-        
+
         return moves
