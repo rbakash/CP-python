@@ -6,10 +6,8 @@ class Solution:
         component = n
 
         def find(nodeX):
-            if nodeX == parent[nodeX]:
-                return nodeX
-            else:
-                parent[nodeX] = find(parent[nodeX])
+            if nodeX != parent[nodeX]:
+               parent[nodeX] = find(parent[nodeX])
             return parent[nodeX]
 
         def union(nodeX, nodeY):
