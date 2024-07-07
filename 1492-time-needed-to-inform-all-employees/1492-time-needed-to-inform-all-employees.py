@@ -8,17 +8,17 @@ class Solution:
         for index in range(len(manager)):
             if manager[index]!=-1:
                 adj[manager[index]].append(index)
-        print(adj)
+ 
         queue.append([headID,0])
         while queue:
 
             currentManager,time = queue.popleft()
             maxTime = max(maxTime, time)
-            print(adj[currentManager])
+
             # find all the subordinates for current Manager
             for subOrdinates in adj[currentManager]:
-                # if manager[index] == currentManager:
+                
                 queue.append([subOrdinates,time+informTime[currentManager]])
-            # timeNeeded += maxTime
+           
 
         return maxTime
