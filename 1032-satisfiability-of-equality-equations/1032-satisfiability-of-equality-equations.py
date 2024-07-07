@@ -24,19 +24,13 @@ class Solution:
             return True
 
         for eachEquation in equations:
-            node1, node2, equation = (
-                ord(eachEquation[0]) - 97,
-                ord(eachEquation[3]) - 97,
-                eachEquation[1],
-            )
+            node1, node2, equation = ord(eachEquation[0]) - 97,ord(eachEquation[3]) - 97,eachEquation[1]
+            
             if equation == "=":
                 union(node1, node2)
         for eachEquation in equations:
-            node1, node2, equation = (
-                ord(eachEquation[0]) - 97,
-                ord(eachEquation[3]) - 97,
-                eachEquation[1],
-            )
+            node1, node2, equation = ord(eachEquation[0]) - 97,ord(eachEquation[3]) - 97,eachEquation[1]
+            
             # Recognising that first building all the == relation and then verifying the inequality is the key
             if equation == "!":
                 if find(node1) == find(node2):
