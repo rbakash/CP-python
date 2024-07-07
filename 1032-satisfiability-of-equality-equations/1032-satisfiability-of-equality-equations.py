@@ -1,6 +1,5 @@
 class Solution:
     def equationsPossible(self, equations: List[str]) -> bool:
-        n = len(equations)
         parent = list(range(26))
         rank = [0] * 26
 
