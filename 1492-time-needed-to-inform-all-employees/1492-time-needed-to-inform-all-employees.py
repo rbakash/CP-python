@@ -4,10 +4,10 @@ class Solution:
         queue = deque([(headID,0)])
         maxTime = 0
         adj=defaultdict(list)
+
         # Build adjacency
         for index in range(len(manager)):
-            if manager[index]!=-1:
-                adj[manager[index]].append(index)
+            adj[manager[index]].append(index)
 
         while queue:
 
