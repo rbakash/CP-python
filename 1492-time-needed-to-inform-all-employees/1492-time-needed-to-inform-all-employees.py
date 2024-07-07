@@ -1,15 +1,14 @@
 class Solution:
     def numOfMinutes(
         self, n: int, headID: int, manager: List[int], informTime: List[int]) -> int:
-        queue = deque()
+        queue = deque([(headID,0)])
         maxTime = 0
         adj=defaultdict(list)
         # Build adjacency
         for index in range(len(manager)):
             if manager[index]!=-1:
                 adj[manager[index]].append(index)
- 
-        queue.append([headID,0])
+
         while queue:
 
             currentManager,time = queue.popleft()
