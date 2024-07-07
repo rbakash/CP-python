@@ -25,19 +25,19 @@ class Solution:
 
         for eachEquation in equations:
             node1, node2, equation = (
-                ord(eachEquation[:1]) - 97,
-                ord(eachEquation[3:]) - 97,
-                eachEquation[1:3],
+                ord(eachEquation[0]) - 97,
+                ord(eachEquation[3]) - 97,
+                eachEquation[1],
             )
-            if equation == "==":
+            if equation == "=":
                 union(node1, node2)
         for eachEquation in equations:
             node1, node2, equation = (
-                ord(eachEquation[:1]) - 97,
-                ord(eachEquation[3:]) - 97,
-                eachEquation[1:3],
+                ord(eachEquation[0]) - 97,
+                ord(eachEquation[3]) - 97,
+                eachEquation[1],
             )
-            if equation == "!=":
+            if equation == "!":
                 if find(node1) == find(node2):
                     return False
         return True
