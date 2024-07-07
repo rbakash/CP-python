@@ -432,6 +432,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Binary Search
 |  |
 | ------- |
@@ -493,6 +494,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Sorting
 |  |
 | ------- |
@@ -500,6 +502,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Two Pointers
 |  |
 | ------- |
@@ -606,4 +609,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
+## Counting Sort
+|  |
+| ------- |
+| [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 <!---LeetCode Topics End-->
