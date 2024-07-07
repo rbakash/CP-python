@@ -22,7 +22,5 @@ class Solution:
                 ] == 1:
                     dfs(row, col)
         for row in range(rows):
-            for col in range(columns):
-                if grid[row][col] == 1:
-                    numberOfEnclaves += 1
+                numberOfEnclaves += sum(grid[row])
         return numberOfEnclaves
