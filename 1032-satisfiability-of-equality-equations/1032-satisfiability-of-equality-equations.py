@@ -1,7 +1,7 @@
 class Solution:
     def equationsPossible(self, equations: List[str]) -> bool:
         n = len(equations)
-        parent = [i for i in range(26)]
+        parent = list(range(26))
         rank = [0] * 26
 
         def find(nodeX):
@@ -37,6 +37,7 @@ class Solution:
                 ord(eachEquation[3]) - 97,
                 eachEquation[1],
             )
+            # Recognising that first building all the == relation and then verifying the inequality is the key
             if equation == "!":
                 if find(node1) == find(node2):
                     return False
