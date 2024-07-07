@@ -419,6 +419,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rbakash/CP-python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rbakash/CP-python/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rbakash/CP-python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -528,12 +529,14 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
+| [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1142-minimum-knight-moves](https://github.com/rbakash/CP-python/tree/master/1142-minimum-knight-moves) |
 ## Union Find
 |  |
@@ -542,6 +545,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
+| [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -598,4 +602,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
