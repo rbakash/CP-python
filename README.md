@@ -469,6 +469,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## String
 |  |
@@ -481,6 +482,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
+| [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
@@ -625,9 +627,14 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Counting Sort
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/rbakash/CP-python/tree/master/0820-find-eventual-safe-states) |
+## Backtracking
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
