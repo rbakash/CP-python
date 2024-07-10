@@ -1,5 +1,6 @@
 class Solution:
     def minimumCost(self, n: int, connections: List[List[int]]) -> int:
+        """Krushkal algorithm -> greedily find the lowest and keep adding it if it doesnot form cycle"""
         parent = list(range(n + 1))
         rank = [0] * (n + 1)
         numberOfComponents = n
