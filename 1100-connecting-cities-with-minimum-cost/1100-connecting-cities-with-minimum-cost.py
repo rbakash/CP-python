@@ -50,8 +50,8 @@ class Solution:
 
         # build adj list
         for node1,node2, weight in connections:
-            adj[node1].append([weight,node2])
-            adj[node2].append([weight,node1])
+            adj[node1].append((weight,node2))
+            adj[node2].append((weight,node1))
 
         while minHeap and len(visited)< n:
             currentCost, currentNode = heappop(minHeap)
