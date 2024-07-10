@@ -560,6 +560,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
 ## Graph
 |  |
 | ------- |
@@ -569,6 +570,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0922-possible-bipartition](https://github.com/rbakash/CP-python/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
 ## Shortest Path
 |  |
 | ------- |
@@ -637,4 +639,12 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
 <!---LeetCode Topics End-->
