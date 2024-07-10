@@ -46,8 +46,7 @@ class Solution:
         adj=defaultdict(list)
         visited = set()
         minCost=0
-        minHeap=[[0,1]] # [cost, node]
-        # minHeap.append() 
+        minHeap=[(0,1)] # [cost, node]
 
         # build adj list
         for node1,node2, weight in connections:
@@ -62,7 +61,7 @@ class Solution:
             minCost +=currentCost
             for neighborCost, neighborNode in adj[currentNode]:
                 if neighborNode not in visited:
-                    heappush(minHeap,[neighborCost,neighborNode])
+                    heappush(minHeap,(neighborCost,neighborNode))
         
         if len(visited) < n:
             return -1
