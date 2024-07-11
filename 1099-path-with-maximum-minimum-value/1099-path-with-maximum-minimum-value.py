@@ -1,14 +1,14 @@
 class Solution:
     def maximumMinimumPath(self, grid: List[List[int]]) -> int:
         dirs = [[0, -1], [0, 1], [-1, 0], [1, 0]]
+        rows = len(grid)
+        cols = len(grid[0])
 
         def bfs(currentScore: int) -> bool:
             queue = deque()
             visited = set()
-            # visited.add((0,0))
             queue.append((0, 0))  # (row, col)
-            rows = len(grid)
-            cols = len(grid[0])
+            
 
             while queue:
                 currentRow, currentCol = queue.popleft()
