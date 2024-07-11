@@ -19,10 +19,13 @@ class Solution:
                     
                     if not (0 <= newRow < rows and 0 <= newCol < cols):
                         continue
-                    # print(newRow, newCol)
+                    
                     if grid[newRow][newCol] >= currentScore and (newRow, newCol) not in visited:
                         visited.add((newRow, newCol))
                         queue.append((newRow, newCol))
+                    
+                    if (newRow, newCol) not in visited:
+                        visited.add((newRow, newCol))
             return False
 
         low, high = 0, min(grid[0][0], grid[-1][-1])
