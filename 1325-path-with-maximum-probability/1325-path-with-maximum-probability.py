@@ -6,7 +6,6 @@ class Solution:
             adj[node2].append((succProb[index],node1))
 
         maxHeap = [(-1.0, start_node)]
-        # heappush(maxHeap, )
         maxProbab=[0.0]*n
         maxProbab[start_node]=1.0
         
