@@ -578,11 +578,13 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Enumeration
 |  |
 | ------- |
@@ -590,6 +592,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Rolling Hash
 |  |
