@@ -1,6 +1,6 @@
 class Solution:
     def earliestAcq(self, logs: List[List[int]], n: int) -> int:
-        logs.sort(key=lambda log: log[0])
+        logs.sort()
         parent = list(range(n))
         component = n
         rank = [0] * n
