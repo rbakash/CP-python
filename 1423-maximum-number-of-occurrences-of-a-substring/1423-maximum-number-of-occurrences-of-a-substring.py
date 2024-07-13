@@ -20,11 +20,11 @@ class Solution:
                     if substringFrequency[s[start : end + 1]] > maxOccurence:
                         maxOccurence = substringFrequency[s[start : end + 1]]
                         maxOccurringSubString = s[start : end + 1]
+                        
                 # if not restore the maxLetter
                 characterFrequency[s[start]] -= 1
                 if characterFrequency[s[start]] == 0:
                     maxLetters += 1
-                
                 start += 1
 
         return maxOccurence
