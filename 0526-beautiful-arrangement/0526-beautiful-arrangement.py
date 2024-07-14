@@ -12,14 +12,16 @@ class Solution:
 
             for number in range(1,n+1):
 
-                if number not in currentArrangement and (((len(currentArrangement)+1) % number == 0 ) or (number % (len(currentArrangement) +1) == 0)):
+                if number not in visited and (((len(currentArrangement)+1) % number == 0 ) or (number % (len(currentArrangement) +1) == 0)):
                     # Add the current combination
                     currentArrangement.append(number)
-                   
+                    visited.add(number)
+
                     backTrack(currentArrangement)
 
                     # Backtrack 
                     currentArrangement.pop()
+                    visited.remove(number)
             return numberOfArrangements
         
         return backTrack([])
