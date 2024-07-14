@@ -1,7 +1,6 @@
 class Solution:
     def countArrangement(self, n: int) -> int:
         visited =set()
-        numbers = list(range(n+1))
         numberOfArrangements = 0
 
         def backTrack(currentArrangement)->int:
