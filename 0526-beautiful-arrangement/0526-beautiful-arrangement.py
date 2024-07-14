@@ -3,27 +3,27 @@ class Solution:
         visited =set()
         numbers = list(range(n+1))
         numberOfArrangements = 0
-        
-        def backTrack(currentArrangement, index,length)->int:
+
+        def backTrack(currentArrangement)->int:
             nonlocal numberOfArrangements
             # Valid Arrangements
             if len(currentArrangement) == n:
                 numberOfArrangements+=1
                 return numberOfArrangements
 
-            for iterator in range(1,n+1):
+            for number in range(1,n+1):
 
-                if numbers[iterator] not in visited and (((len(currentArrangement)+1) % numbers[index] == 0 ) or (numbers[index] % (len(currentArrangement) +1) == 0)):
+                if number not in visited and (((len(currentArrangement)+1) % number == 0 ) or (number % (len(currentArrangement) +1) == 0)):
                     # Add the current combination
-                    currentArrangement.append(numbers[iterator])
-                    visited.add(numbers[iterator])
+                    currentArrangement.append(number)
+                    visited.add(number)
 
-                    backTrack(currentArrangement, iterator, len(currentArrangement))
+                    backTrack(currentArrangement)
 
                     # Backtrack 
                     currentArrangement.pop()
-                    visited.remove(numbers[iterator])
+                    visited.remove(number)
             return numberOfArrangements
         
-        return backTrack([],1,0)
+        return backTrack([])
         
