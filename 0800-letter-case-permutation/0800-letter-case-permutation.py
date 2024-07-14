@@ -1,14 +1,7 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
-        n = len(s)
         answer=[]
         s = list(s)
-        letterIndices=[]
-        visited = set()
-
-        for index in range(n):
-            if s[index].isalpha():
-                letterIndices.append(index)
 
         def backtrack(index,current):
             if index == len(s):
