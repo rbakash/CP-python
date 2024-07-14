@@ -11,8 +11,8 @@ class Solution:
                 return numberOfArrangements
 
             for number in range(1,n+1):
-
-                if number not in visited and (((len(currentArrangement)+1) % number == 0 ) or (number % (len(currentArrangement) +1) == 0)):
+                length = len(currentArrangement)+1
+                if number not in visited and (length % number == 0  or number % length == 0):
                     # Add the current combination
                     currentArrangement.append(number)
                     visited.add(number)
