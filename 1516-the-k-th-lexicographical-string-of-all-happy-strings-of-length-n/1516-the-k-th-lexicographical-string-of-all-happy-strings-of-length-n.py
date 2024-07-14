@@ -17,8 +17,10 @@ class Solution:
                 if k == 0:
                     return
                 if len(currentString) ==0  or eachCharacter != currentString[-1]:
-                    
                     backtrack(currentString + eachCharacter)
-            return 
+            return
+
         backtrack("")
+        print(answer)
+        print(k)
         return answer[k - 1] if not k else ""
