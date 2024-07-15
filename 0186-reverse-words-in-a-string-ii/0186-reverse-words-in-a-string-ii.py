@@ -4,7 +4,6 @@ class Solution:
         Do not return anything, modify s in-place instead.
         """
         start,end =0,0
-        # s.reverse()
 
         def reverseWord(start,end):
             while start<=end:
@@ -25,6 +24,5 @@ class Solution:
            
             start = end+1
             end=start
-            # print(s)
         
         
