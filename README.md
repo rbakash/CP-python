@@ -500,6 +500,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbakash/CP-python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rbakash/CP-python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rbakash/CP-python/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
@@ -536,6 +537,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rbakash/CP-python/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 ## Design
 |  |
