@@ -4,12 +4,14 @@ class Solution:
         Do not return anything, modify s in-place instead.
         """
         start,end =0,0
-        s.reverse()
-        print(s)
+        # s.reverse()
+
         def reverseWord(start,end):
             while start<=end:
                 s[start],s[end] = s[end],s[start]
                 start,end=start+1,end-1
+
+        reverseWord(0,len(s)-1)
 
         # Reverse the word
         while end < len(s):
