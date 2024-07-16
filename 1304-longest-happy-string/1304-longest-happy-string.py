@@ -12,7 +12,7 @@ class Solution:
             print(answer,maxHeap,currentCharacter)
             if len(answer)> 1 and answer[-1]==answer[-2]  == currentCharacter:
                 if not maxHeap:
-                    break
+                    return answer
                 nextCount, nextCharacter = heappop(maxHeap)
                 answer+=nextCharacter
                 heappush(maxHeap, (currentCount,currentCharacter))
