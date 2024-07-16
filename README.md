@@ -434,6 +434,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/rbakash/CP-python/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -638,6 +639,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/rbakash/CP-python/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
 |  |
 | ------- |
