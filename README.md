@@ -452,6 +452,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/rbakash/CP-python/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -463,6 +464,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rbakash/CP-python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -483,6 +485,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -505,6 +508,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -673,6 +677,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Topological Sort
 |  |
