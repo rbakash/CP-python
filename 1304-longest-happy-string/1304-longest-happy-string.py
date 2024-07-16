@@ -8,7 +8,7 @@ class Solution:
         if c > 0:
             heapq.heappush(maxHeap, (-c, 'c'))
 
-        answer=[]
+        answer=""
 
         while maxHeap:
             currentCount, currentCharacter = heappop(maxHeap)
@@ -17,13 +17,13 @@ class Solution:
                 if not maxHeap:
                     break
                 nextCount, nextCharacter = heappop(maxHeap)
-                answer.append(nextCharacter)
+                answer+=nextCharacter
                 heappush(maxHeap, (currentCount,currentCharacter))
                 if nextCount !=-1:
                     heappush(maxHeap, (nextCount+1, nextCharacter))
             else:
-                answer.append(currentCharacter)
+                answer+=currentCharacter
                 if currentCount !=-1:
                     heappush(maxHeap, (currentCount+1,currentCharacter))
 
-        return "".join(answer)
+        return answer
