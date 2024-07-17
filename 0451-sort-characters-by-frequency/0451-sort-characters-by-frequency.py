@@ -5,8 +5,7 @@ class Solution:
             frequency[eachCharacter]+=1
         
         string = sorted(frequency.items(), key=lambda x:x[1],reverse = True)
-        print(string)
-        result = []
+        result = ""
         for ch,count in string:
-            result.append(ch*count)
-        return "".join(result)
+            result+=ch*count
+        return result
