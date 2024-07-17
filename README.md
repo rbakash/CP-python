@@ -410,6 +410,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Array
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
@@ -497,6 +498,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rbakash/CP-python/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rbakash/CP-python/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
@@ -661,6 +663,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
