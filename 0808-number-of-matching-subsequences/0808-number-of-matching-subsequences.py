@@ -31,13 +31,17 @@ class Solution:
 
         # return matchingSubsequence
 
-        matching_subseq_count = 0
+        # extremely simple logic - brute force
+        matchingSubsequence = 0
         for word in words:
-            current_index = -1
-            for char in word:
-                current_index = s.find(char, current_index + 1)
-                if current_index == -1:
+            currentIndex = -1
+            # check if all the character in the given word exists or not
+            # if exists then its a matching subsequence
+            for eachCharacter in word:
+                # s.find -> finds the character starting from currentIndex +1,returns the index if found else -1
+                currentIndex = s.find(eachCharacter, currentIndex + 1)
+                if currentIndex == -1:
                     break
-            if current_index != -1:
-                matching_subseq_count += 1
-        return matching_subseq_count
+            if currentIndex != -1:
+                matchingSubsequence += 1
+        return matchingSubsequence
