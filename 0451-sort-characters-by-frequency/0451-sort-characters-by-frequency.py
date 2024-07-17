@@ -11,7 +11,6 @@ class Solution:
         for character, count in frequency.items():
             buckets[count].append(character)
 
-        string = sorted(frequency.items(), key=lambda x: x[1], reverse=True)
         result = ""
         for index in range(len(buckets) - 1, 0, -1):
             for eachCharacter in buckets[index]:
