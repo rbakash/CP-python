@@ -411,6 +411,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
@@ -500,6 +501,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
@@ -533,6 +535,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Sorting
 |  |
 | ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
@@ -547,6 +550,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0186-reverse-words-in-a-string-ii](https://github.com/rbakash/CP-python/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
