@@ -414,6 +414,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/rbakash/CP-python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
@@ -443,6 +444,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rbakash/CP-python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
@@ -479,6 +481,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0940-fruit-into-baskets](https://github.com/rbakash/CP-python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -499,6 +502,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
@@ -530,6 +534,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -628,6 +633,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Rolling Hash
@@ -715,4 +721,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
