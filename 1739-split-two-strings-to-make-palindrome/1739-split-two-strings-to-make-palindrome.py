@@ -1,7 +1,13 @@
 class Solution:
     def checkPalindromeFormation(self, a: str, b: str) -> bool:
         def isPalindrome(string):
-            return string == string[::-1]
+            start,end=0,len(string)-1
+            while start <= end:
+                if string[start] != string[end]:
+                    return False
+                start+=1
+                end-=1
+            return True
 
         # Both palindrome
         if isPalindrome(a) and isPalindrome(b):
