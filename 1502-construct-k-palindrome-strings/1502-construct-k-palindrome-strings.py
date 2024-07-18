@@ -5,9 +5,9 @@ class Solution:
             return False
         
         # find the character with odd frequency
-        frequency = defaultdict(int)
-        for character in s:
-            frequency[character]+=1
+        frequency = Counter(s)
+        # for character in s:
+        #     frequency[character]+=1
         oddFrequency =0
         
         for character,count in frequency.items():
