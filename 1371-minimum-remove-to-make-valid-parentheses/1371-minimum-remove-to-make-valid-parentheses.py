@@ -1,36 +1,27 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        s = list(s)
-        freqOfBrackets = defaultdict(list)
-        for index in range(len(s)):
-            if s[index] in ["(", ")"]:
-                freqOfBrackets[s[index]].append(index)
-
-        pointerO, pointerC = 0, 0
+        stack=[]
         indexesToDelete = set()
 
-        while pointerO < len(freqOfBrackets["("]) and pointerC < len(freqOfBrackets[")"]):
+        for index in range(len(s)):
             
-            if freqOfBrackets[")"][pointerC] < freqOfBrackets["("][pointerO]:
-
+            if s[index] not in "()":
+                continue
+            elif s[index] == "(":
+                stack.append(index)
+            elif not stack:
                 # invalid Close bracket, we need to remove it tp make it valid
-                indexesToDelete.add(freqOfBrackets[")"][pointerC])
-                pointerC += 1
+                indexesToDelete.add(index)
             else:
-                pointerO += 1
-                pointerC += 1
+                stack.pop()
 
-        # remove remaining invalid brackets
-        while pointerO < len(freqOfBrackets["("]):
-            indexesToDelete.add(freqOfBrackets["("][pointerO])
-            pointerO += 1
-
-        while pointerC < len(freqOfBrackets[")"]):
-            indexesToDelete.add(freqOfBrackets[")"][pointerC])
-            pointerC += 1
+        # add the remaining elements from stack
+        while stack:
+            indexesToDelete.add(stack.pop())
         
         result = ""
         for index in range(len(s)):
             if index not in indexesToDelete:
                 result += s[index]
+        
         return result
