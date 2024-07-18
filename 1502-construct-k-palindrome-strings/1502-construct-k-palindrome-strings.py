@@ -6,6 +6,7 @@ class Solution:
         
         # find the character with odd frequency
         frequency = Counter(s)
+        
         # for character in s:
         #     frequency[character]+=1
         oddFrequency =0
