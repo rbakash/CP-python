@@ -515,6 +515,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbakash/CP-python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rbakash/CP-python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -677,6 +678,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 ## Tree
 |  |
