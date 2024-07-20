@@ -12,7 +12,7 @@ class Solution:
         def dfs(currentNode):
             if currentNode == None:
                 return "*"
-            subTree = ("-" + str(currentNode.val) + dfs(currentNode.left) + dfs(currentNode.right))
+            subTree = ( str(currentNode.val)+"#" + dfs(currentNode.left)+"#" + dfs(currentNode.right))
             adjList[subTree]+=1
             if adjList[subTree] ==2:
                 result.append(currentNode)
