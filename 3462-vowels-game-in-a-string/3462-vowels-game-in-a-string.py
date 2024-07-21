@@ -1,17 +1,15 @@
 class Solution:
     def doesAliceWin(self, s: str) -> bool:
-        totalVowels,totalConsonents  = 0,0
-        s=list(s)
+        # totalVowels,totalConsonents  = 0,0
+        # s=list(s)
          # find Vowel and non vowel count
         for character in s:
             if character in ['a','e', 'i', 'o','u']:
-                totalVowels+=1
-            else:
-                totalConsonents+=1
+                return True
+            # else:
+            #     totalConsonents+=1
 
-        # if totalVowels == 0:
-        #     return False
-        return True if totalVowels !=0 else False
+        return False
         
         # aliceTurn = True
 
