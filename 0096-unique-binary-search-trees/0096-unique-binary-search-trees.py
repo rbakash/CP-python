@@ -1,6 +1,5 @@
 class Solution:
     def numTrees(self, n: int) -> int:
-        sequence= list(range(1,n+1))
         maxBST=[0]*(n+1)
         maxBST[0],maxBST[1]=1,1
         
