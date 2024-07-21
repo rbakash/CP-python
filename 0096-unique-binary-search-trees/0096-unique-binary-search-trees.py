@@ -10,4 +10,4 @@ class Solution:
             for jthRoot in range(1,ithNode+1):
                 maxBST[ithNode]+=maxBST[jthRoot-1]*maxBST[ithNode-jthRoot]
         
-        return maxBST[n]
+        return maxBST[-1]
