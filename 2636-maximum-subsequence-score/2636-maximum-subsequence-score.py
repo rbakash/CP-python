@@ -10,8 +10,7 @@ class Solution:
             currentN1Sum += eachN1
             heappush(minHeap, eachN1)
 
-            if len(minHeap) > k:
-                currentN1Sum -= heappop(minHeap)
             if len(minHeap) == k:
                 maxSum = max(maxSum, currentN1Sum * eachN2)
+                currentN1Sum -= heappop(minHeap)
         return maxSum
