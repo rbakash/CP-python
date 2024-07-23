@@ -415,6 +415,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
+| [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
@@ -488,6 +489,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
@@ -543,6 +545,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
@@ -557,6 +560,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
@@ -753,6 +757,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -774,6 +779,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
