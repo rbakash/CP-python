@@ -434,6 +434,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rbakash/CP-python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/rbakash/CP-python/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -553,6 +554,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Sorting
@@ -784,6 +786,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
+| [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 ## Minimum Spanning Tree
 |  |
