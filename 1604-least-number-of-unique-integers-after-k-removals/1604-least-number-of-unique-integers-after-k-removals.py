@@ -9,9 +9,7 @@ class Solution:
         while k:
             count,currentNum=heappop(minHeap)
             if count > k:
-                heappush(minHeap,(count-k,currentNum))
-                freq[currentNum]-=k
-                k=0
+               return len(freq)
             else:
                 k-=count
                 del freq[currentNum]
