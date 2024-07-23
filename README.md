@@ -430,6 +430,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rbakash/CP-python/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rbakash/CP-python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -496,6 +497,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -547,6 +549,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Sorting
@@ -559,6 +562,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
@@ -751,6 +755,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Topological Sort
