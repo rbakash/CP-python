@@ -441,6 +441,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rbakash/CP-python/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -556,6 +557,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Sorting
 |  |
@@ -570,6 +572,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Two Pointers
@@ -787,6 +790,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
+| [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 ## Minimum Spanning Tree
 |  |
