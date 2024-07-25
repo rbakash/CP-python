@@ -12,7 +12,7 @@ class Solution:
         
         
         def dfs(currentNode):
-            if currentNode == None:
+            if currentNode in visited:
                 return
             visited.add(currentNode)
             for neighbor in undirectedAdjList[currentNode]:
