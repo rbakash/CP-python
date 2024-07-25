@@ -1,14 +1,14 @@
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
         undirectedAdjList=defaultdict(list)
-        directedAdjList=defaultdict(set)
+        directedAdjList=set()
         visited=set()
         self.edgesChanged =0
 
         for src,dest in connections:
             undirectedAdjList[src].append(dest)
             undirectedAdjList[dest].append(src)
-            directedAdjList[src].add(dest)
+            directedAdjList.add((src,dest))
         
         
         def dfs(currentNode):
@@ -18,7 +18,7 @@ class Solution:
             for neighbor in undirectedAdjList[currentNode]:
                 
                 if neighbor not in visited:
-                    if neighbor in directedAdjList[currentNode]:
+                    if (currentNode,neighbor) in directedAdjList:
                         self.edgesChanged+=1
                     dfs(neighbor)
         dfs(0)
