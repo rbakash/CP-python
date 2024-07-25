@@ -23,8 +23,7 @@ class Solution:
 
                 for l in left:
                     for r in right:
-                        root = TreeNode(0, l, r)
-                        res.append(root)
+                        res.append(TreeNode(0, l, r))
             prevTrees[nodes]=res
             return res
         
