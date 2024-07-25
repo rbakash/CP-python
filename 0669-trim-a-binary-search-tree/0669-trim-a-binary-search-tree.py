@@ -9,13 +9,13 @@ class Solution:
         def dfs(node):
             if not node:
                 return None
-            elif node.val < low:
+            if node.val < low:
                 return dfs(node.right)
-            elif node.val > high:
+            if node.val > high:
                 return dfs(node.left)
-            else:
-                node.left = dfs(node.left)
-                node.right = dfs(node.right)
-                return node
+            
+            node.left = dfs(node.left)
+            node.right = dfs(node.right)
+            return node
         return dfs(root)
         
