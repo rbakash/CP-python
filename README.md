@@ -620,6 +620,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0513-find-bottom-left-tree-value](https://github.com/rbakash/CP-python/tree/master/0513-find-bottom-left-tree-value) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/rbakash/CP-python/tree/master/0669-trim-a-binary-search-tree) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/rbakash/CP-python/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/rbakash/CP-python/tree/master/0820-find-eventual-safe-states) |
@@ -733,6 +734,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0513-find-bottom-left-tree-value](https://github.com/rbakash/CP-python/tree/master/0513-find-bottom-left-tree-value) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/rbakash/CP-python/tree/master/0669-trim-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -749,6 +751,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0513-find-bottom-left-tree-value](https://github.com/rbakash/CP-python/tree/master/0513-find-bottom-left-tree-value) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/rbakash/CP-python/tree/master/0669-trim-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -830,6 +833,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
+| [0669-trim-a-binary-search-tree](https://github.com/rbakash/CP-python/tree/master/0669-trim-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
