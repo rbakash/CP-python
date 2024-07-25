@@ -5,17 +5,14 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def trimBST(self, root: Optional[TreeNode], low: int, high: int) -> Optional[TreeNode]:
-        def dfs(node):
-            if not node:
-                return None
-            if node.val < low:
-                return dfs(node.right)
-            if node.val > high:
-                return dfs(node.left)
-            
-            node.left = dfs(node.left)
-            node.right = dfs(node.right)
-            return node
-        return dfs(root)
-        
+    def trimBST(self, node: Optional[TreeNode], low: int, high: int) -> Optional[TreeNode]:
+        if not node:
+            return None
+        if node.val < low:
+            return self.trimBST(node.right,low,high)
+        if node.val > high:
+            return self.trimBST(node.left,low,high)
+
+        node.left = self.trimBST(node.left,low,high)
+        node.right = self.trimBST(node.right,low,high)
+        return node
