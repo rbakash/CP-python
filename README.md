@@ -412,6 +412,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+| [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
@@ -695,6 +696,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
+| [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
@@ -716,6 +718,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
+| [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
@@ -793,6 +796,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Backtracking
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/rbakash/CP-python/tree/master/0813-all-paths-from-source-to-target) |
@@ -823,6 +827,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 ## Trie
 |  |
