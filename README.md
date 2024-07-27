@@ -509,6 +509,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
+| [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
@@ -543,6 +544,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
 | [2470-removing-stars-from-a-string](https://github.com/rbakash/CP-python/tree/master/2470-removing-stars-from-a-string) |
+| [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rbakash/CP-python/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -565,6 +567,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Sorting
@@ -798,6 +801,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Topological Sort
