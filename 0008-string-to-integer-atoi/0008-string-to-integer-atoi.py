@@ -9,13 +9,13 @@ class Solution:
             return 0
 
         if s[0] == "+":
-            index += 1
             sign = 1
+            s=s[1:]
         elif s[0] == "-":
             sign = -1
-            index += 1
+            s=s[1:]
 
-        for itx in range(index, len(s)):
+        for itx in range(len(s)):
             if s[itx].isnumeric():
                 result = result*10 + int(s[itx])
             else:
@@ -29,5 +29,4 @@ class Solution:
         elif result < -(2**31):
             return -(2**31)
         else:
-
             return result
