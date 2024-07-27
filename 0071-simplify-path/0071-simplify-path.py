@@ -1,8 +1,6 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        path = path.replace("//", "/")
-        if path[-1] == "/":
-            path = path[:-1]
+
         path = path.split("/")
         stack = []
 
@@ -15,5 +13,5 @@ class Solution:
                 continue
             else:
                 stack.append(eachPath)
-        # print("/" + "/".join(stack))
+
         return "/" + "/".join(stack)
