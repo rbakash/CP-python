@@ -589,6 +589,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rbakash/CP-python/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rbakash/CP-python/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0277-find-the-celebrity](https://github.com/rbakash/CP-python/tree/master/0277-find-the-celebrity) |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -672,6 +673,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Graph
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/rbakash/CP-python/tree/master/0277-find-the-celebrity) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0813-all-paths-from-source-to-target](https://github.com/rbakash/CP-python/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/rbakash/CP-python/tree/master/0820-find-eventual-safe-states) |
@@ -857,4 +859,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/rbakash/CP-python/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
