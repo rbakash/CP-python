@@ -16,7 +16,7 @@ class Solution:
             s=s[1:]
 
         for itx in range(len(s)):
-            if s[itx].isnumeric():
+            if s[itx].isdigit():
                 result = result*10 + int(s[itx])
             else:
                 break
