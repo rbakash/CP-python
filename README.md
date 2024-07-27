@@ -411,6 +411,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
+| [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -491,6 +492,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
@@ -600,6 +602,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Design
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
@@ -766,6 +769,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/rbakash/CP-python/tree/master/2470-removing-stars-from-a-string) |
@@ -777,6 +781,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Matrix
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 ## Counting Sort
