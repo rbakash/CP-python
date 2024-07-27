@@ -1,6 +1,6 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        result = ""
+        result = 0
         sign = 1
         index = 0
 
@@ -17,13 +17,13 @@ class Solution:
 
         for itx in range(index, len(s)):
             if s[itx].isnumeric():
-                result += s[itx]
+                result = result*10 + int(s[itx])
             else:
                 break
-        if result == "" or result in "-+":
+        if result == 0:
             return 0
         
-        result = sign * int(result)
+        result = sign * (result)
         if result > (2**31) - 1:
             return (2**31) - 1
         elif result < -(2**31):
