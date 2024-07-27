@@ -5,14 +5,15 @@
 
 class Solution:
     def findCelebrity(self, n: int) -> int:
-        
-        def isCelebrity(i):
-            for dest in range(n):
-                if src != dest:
-                    if knows(src,dest) or not knows(dest,src):
-                       return False
-            return True
-        for src in range(n):
-            if isCelebrity(src):
-                return src
-        return -1
+        celebrity = 0
+        for src in range(1, n):
+            if knows(celebrity, src):
+                # if celebrity knows a person, then we can eliminate him
+                # as celebrity knows no one
+                celebrity = src
+
+        for dest in range(n):
+            if celebrity != dest:
+                if knows(celebrity, dest) or not knows(dest, celebrity):
+                    return -1
+        return celebrity
