@@ -22,12 +22,12 @@ class Solution:
                 break
         if result == "" or result in "-+":
             return 0
-        elif sign * int(result) > (2**31) - 1:
-            print("+",sign, result)
+        
+        result = sign * int(result)
+        if result > (2**31) - 1:
             return (2**31) - 1
-        elif sign * int(result) < -2**31:
-            print("-",sign, result)
-            return -2**31
+        elif result < -(2**31):
+            return -(2**31)
         else:
-            print(sign, result)
-            return sign * int(result)
+
+            return result
