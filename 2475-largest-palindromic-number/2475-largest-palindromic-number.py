@@ -6,7 +6,7 @@ class Solution:
             digitFreq[(digit)]+=1
 
         res=[]
-        for digit in sorted(digitFreq.keys(),reverse=True): 
+        for digit in '9876543210': 
             res.append(digitFreq[digit]//2 * digit)
         mid = ''
         res = "".join(res).lstrip('0')
