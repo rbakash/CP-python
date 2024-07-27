@@ -15,4 +15,5 @@ class Solution:
             if digitFreq[digit]%2:
                 mid=max(digit,mid)
         print(mid)
-        return (res+mid+res[::-1]) if (res+mid+res[::-1]) else '0'
+        res = res+mid+res[::-1]
+        return res if res else '0'
