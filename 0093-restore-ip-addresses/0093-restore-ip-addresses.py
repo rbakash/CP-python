@@ -1,28 +1,23 @@
 class Solution:
     def restoreIpAddresses(self, s: str) -> List[str]:
-        self.validIps=[]
-        def isValidIp(ip:str)->bool:
-            print(ip)
-            subNets = ip.split(".")
-            if len(subNets)!=4:
-                return False
-            for eachSubNet in subNets:
-                if not eachSubNet.isdigit() or int(eachSubNet) < 0 or int(eachSubNet) > 255:
-                    return False
-                if len(eachSubNet) > 1 and eachSubNet[0] == '0':
-                    return False
-            return True
-        def backTrack(prefix, suffix,dots):
-            if dots> 3 or not suffix:
+        if len(s) > 12:
+            return []
+        
+        self.validIps = []
+        def backTrack(start, dot,ip):
+
+            if dot == 4 and start == len(s):
+                self.validIps.append(ip[:-1])
                 return
-            if dots ==3:
-                if isValidIp(prefix+suffix):
-                    self.validIps.append(prefix+suffix)
+
+            if dot > 4:
                 return
-            for index in range(1,(len(suffix))):
-               
-                backTrack(prefix + suffix[:index]+".",suffix[index:],dots+1)
-               
+
+            for i in range(start, min(start+3, len(s))):
+                if int(s[start:i+1]) < 256 and (start == i or s[start] != "0"):
+                    backTrack(i+1,dot + 1, ip + s[start:i+1] + ".")
+
             return
-        backTrack("",s,0)
+
+        backTrack(0, 0,"")
         return self.validIps
