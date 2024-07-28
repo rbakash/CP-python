@@ -517,6 +517,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rbakash/CP-python/tree/master/0008-string-to-integer-atoi) |
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/rbakash/CP-python/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/rbakash/CP-python/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/rbakash/CP-python/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rbakash/CP-python/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -815,6 +816,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/rbakash/CP-python/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
