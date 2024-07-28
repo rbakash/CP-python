@@ -410,6 +410,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
@@ -617,6 +618,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
@@ -791,6 +793,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
