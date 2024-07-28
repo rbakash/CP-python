@@ -19,7 +19,7 @@ class Solution:
                 if isValidIp(prefix+suffix):
                     self.validIps.append(prefix+suffix)
                 return
-            for index in range(1,(len(suffix)+1)):
+            for index in range(1,(len(suffix))):
                
                 backTrack(prefix + suffix[:index]+".",suffix[index:],dots+1)
                
