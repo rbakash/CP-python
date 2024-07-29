@@ -3,18 +3,17 @@ class Solution:
         maxRow = len(grid)
         maxCol = len(grid[0])
         dp = [[0] * maxCol for _ in range(maxRow)]
-        print(dp)
-        dp[maxRow - 1][maxCol - 1] = grid[maxRow - 1][maxCol - 1]
 
-        for row in range(maxRow - 1, -1, -1):
-            for col in range(maxCol - 1, -1, -1):
-                # if its last col then take the next row as min cost
-                if col == maxCol - 1 and row != maxRow - 1:
-                    dp[row][col] = grid[row][col] + dp[row + 1][col]
-                # if its last row, then take the next col as min cost
-                elif row == maxRow - 1 and col != maxCol - 1:
-                    dp[row][col] = grid[row][col] + dp[row][col + 1]
-                elif row != maxRow - 1 and col != maxCol - 1:
-                    dp[row][col] = grid[row][col] + min(dp[row + 1][col], dp[row][col + 1])
+        dp[0][0] = grid[0][0]
 
-        return dp[0][0]
+        for row in range(1,maxRow):
+            dp[row][0] = dp[row-1][0]+grid[row][0]
+        
+        for col in range(1,maxCol):
+            dp[0][col] = dp[0][col-1]+grid[0][col]
+
+        for row in range(1, maxRow):
+            for col in range( 1, maxCol):
+                dp[row][col] = grid[row][col] + min(dp[row - 1][col], dp[row][col - 1])
+
+        return dp[maxRow-1][maxCol-1]
