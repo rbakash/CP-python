@@ -5,8 +5,14 @@ class MedianFinder:
         self.length=0
 
     def addNum(self, num: int) -> None:
-        self.nums.append(num)
         self.length+=1
+        if not self.length :
+            self.nums.append(nums)
+        else:
+            index = bisect.bisect_left(self.nums, num)
+            self.nums.insert(index,num)
+
+
     def findMedian(self) -> float:
         self.nums.sort()
 
