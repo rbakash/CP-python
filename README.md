@@ -580,6 +580,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
@@ -602,6 +603,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0165-compare-version-numbers](https://github.com/rbakash/CP-python/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rbakash/CP-python/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0277-find-the-celebrity](https://github.com/rbakash/CP-python/tree/master/0277-find-the-celebrity) |
+| [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0408-valid-word-abbreviation](https://github.com/rbakash/CP-python/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rbakash/CP-python/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -616,6 +618,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -833,6 +836,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
@@ -882,4 +886,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/rbakash/CP-python/tree/master/0277-find-the-celebrity) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
