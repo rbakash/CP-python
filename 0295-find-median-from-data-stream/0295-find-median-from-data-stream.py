@@ -14,7 +14,6 @@ class MedianFinder:
 
 
     def findMedian(self) -> float:
-        self.nums.sort()
 
         if self.length & 1:
             return self.nums[self.length//2]
