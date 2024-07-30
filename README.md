@@ -428,6 +428,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0940-fruit-into-baskets](https://github.com/rbakash/CP-python/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
+| [0986-largest-time-for-given-digits](https://github.com/rbakash/CP-python/tree/master/0986-largest-time-for-given-digits) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rbakash/CP-python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -537,6 +538,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0753-open-the-lock](https://github.com/rbakash/CP-python/tree/master/0753-open-the-lock) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
+| [0986-largest-time-for-given-digits](https://github.com/rbakash/CP-python/tree/master/0986-largest-time-for-given-digits) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
@@ -714,6 +716,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Enumeration
 |  |
 | ------- |
+| [0986-largest-time-for-given-digits](https://github.com/rbakash/CP-python/tree/master/0986-largest-time-for-given-digits) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
 ## Dynamic Programming
 |  |
