@@ -14,9 +14,8 @@ class Solution:
         self.largestTime=""
         visited=set()
         
-        def backTrack(currentTime:str, index):
-            if index>3:
-                return
+        def backTrack(currentTime:str):
+
             if len(currentTime) == 4:
                 if isvalidTime(currentTime):
                     print(self.largestTime,currentTime)
@@ -26,9 +25,9 @@ class Solution:
             for itx in range(4):
                 if itx not in visited:
                     visited.add(itx)
-                    backTrack(currentTime+str(arr[itx]),itx)
+                    backTrack(currentTime+str(arr[itx]))
                     visited.remove(itx)
             return
-        backTrack("",0)
+        backTrack("")
         return "" if not self.largestTime else self.largestTime[:2]+":"+self.largestTime[2:]
 
