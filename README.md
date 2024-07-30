@@ -412,6 +412,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
+| [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
@@ -630,6 +631,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -716,6 +718,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
 | [0986-largest-time-for-given-digits](https://github.com/rbakash/CP-python/tree/master/0986-largest-time-for-given-digits) |
 | [3469-maximum-height-of-a-triangle](https://github.com/rbakash/CP-python/tree/master/3469-maximum-height-of-a-triangle) |
 ## Dynamic Programming
@@ -897,4 +900,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
