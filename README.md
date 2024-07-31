@@ -410,6 +410,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rbakash/CP-python/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
@@ -842,6 +843,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rbakash/CP-python/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rbakash/CP-python/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/rbakash/CP-python/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
