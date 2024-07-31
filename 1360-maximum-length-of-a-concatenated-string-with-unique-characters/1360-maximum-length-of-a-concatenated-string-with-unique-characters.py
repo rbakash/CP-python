@@ -3,12 +3,8 @@ class Solution:
         validConcatenations =[]
         self.maxLength =0
         def isValidConcatenations(string:str)->bool:
-
-            if len(set(string)) == len(string):
-                return True
-            else:
-                return False
-
+            return len(set(string)) == len(string)
+            
         def backtrack(currentString,index):
             if not isValidConcatenations(currentString):
                 return
