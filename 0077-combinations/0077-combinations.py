@@ -8,7 +8,10 @@ class Solution:
             if len(currentCombination) == k:
                 combinations.append(currentCombination[:])
                 return
-            for eachNum in range(currentN, n+1 ):
+            need = k-len(currentCombination)
+            remain = n-currentN+1
+            available= remain - need
+            for eachNum in range(currentN, currentN+available+1 ):
                 currentCombination.append(eachNum)
                 backtrack(currentCombination, eachNum+1)
                 currentCombination.pop()
