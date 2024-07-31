@@ -437,6 +437,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rbakash/CP-python/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1499-maximum-performance-of-a-team](https://github.com/rbakash/CP-python/tree/master/1499-maximum-performance-of-a-team) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -546,6 +547,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
@@ -756,6 +758,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/rbakash/CP-python/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
@@ -845,6 +848,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/rbakash/CP-python/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbakash/CP-python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/rbakash/CP-python/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
