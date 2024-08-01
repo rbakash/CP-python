@@ -8,34 +8,28 @@ class Solution:
 
         eachSubsetSum //= k
         length = len(nums)
-        taken = ['0'] * length
+        taken = [False] * length
         nums.sort(reverse=True)
-        triedSubsets={}
 
         def backtrack(currentSum: int, count: int,currentIndex:int) -> bool:
-            if count == k - 1:
+            if count == 0:
                 return True
-            if currentSum > eachSubsetSum:
-                return False
-            currentSubset="".join(taken)
-            if currentSubset in triedSubsets:
-                return triedSubsets[currentSubset]
 
-            if currentSum == eachSubsetSum  :
-                triedSubsets[currentSubset] = backtrack(0, count + 1,0)
-                return triedSubsets[currentSubset]
+            if currentSum == eachSubsetSum:
+                return backtrack(0, count - 1,0)
 
-            for eachNum in range(currentIndex,length):
+            for index in range(currentIndex,length):
 
-                if taken[eachNum] =='0':
-                    taken[eachNum] = '1'
-                    # print("backTrack")
-
-                    if backtrack(currentSum + nums[eachNum], count,eachNum+1):
+                if index > 0 and not taken[index-1] and nums[index-1]==nums[index]:
+                    continue
+                if taken[index] or currentSum + nums[index]>eachSubsetSum:
+                    continue
+                else:
+                    taken[index] = True
+                    if backtrack(currentSum + nums[index], count,index+1):
                         return True
-                    taken[eachNum] = '0'
+                    taken[index] = False
 
-            triedSubsets[currentSubset] = False
             return False
 
-        return backtrack(0, 0,0)
+        return backtrack(0, k,0)
