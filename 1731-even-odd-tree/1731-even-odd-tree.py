@@ -14,11 +14,9 @@ class Solution:
             
             level = len(queue)
             isOddLevel = not isOddLevel
-            print(isOddLevel, level)
             prev = 0
             for index in range(level):
                 currentNode = queue.popleft()
-                print(currentNode.val)
                 if currentNode.left:
                     queue.append(currentNode.left)
 
