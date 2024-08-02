@@ -665,6 +665,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
@@ -685,6 +686,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1142-minimum-knight-moves](https://github.com/rbakash/CP-python/tree/master/1142-minimum-knight-moves) |
+| [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
@@ -700,6 +702,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 ## Graph
 |  |
 | ------- |
@@ -712,6 +715,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/rbakash/CP-python/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -788,6 +792,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
@@ -806,6 +811,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Simulation
