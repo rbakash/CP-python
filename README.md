@@ -569,6 +569,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Greedy
 |  |
@@ -871,6 +872,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
@@ -932,4 +934,12 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
