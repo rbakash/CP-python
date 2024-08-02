@@ -1,24 +1,24 @@
 class Solution:
-    def validateBinaryTreeNodes(self, n: int, leftChild: List[int], rightChild: List[int]) -> bool:
-        def findRoot()-> int:
-            children = set(leftChild) | set(rightChild)
-    
-            for i in range(n):
-                if i not in children:
-                    return i
-            
-            return -1
-        root = findRoot()
-        if root ==-1:
+    def validateBinaryTreeNodes(
+        self, n: int, leftChild: List[int], rightChild: List[int]) -> bool:
+
+        children = set(leftChild + rightChild)
+        root = -1
+        seen=set()
+        for i in range(n):
+            if i not in children:
+                root = i
+                break
+
+        if root == -1:
             return False
-        stack=[root]
-        seen={root}
-        while stack:
-            currentNode = stack.pop()
-            for child in [leftChild[currentNode],rightChild[currentNode]]:
-                if child !=-1:
-                    if child in seen:
-                        return False
-                    stack.append(child)
-                    seen.add(child)
-        return len(seen) ==n
+
+        def dfs(currentNode):
+            if currentNode == -1:
+                return True
+            if currentNode in seen:
+                return False
+            seen.add(currentNode)
+            return dfs(leftChild[currentNode]) and dfs(rightChild[currentNode])
+
+        return dfs(root) and len(seen) == n
