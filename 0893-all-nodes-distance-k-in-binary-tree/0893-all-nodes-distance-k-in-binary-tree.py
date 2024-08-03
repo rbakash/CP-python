@@ -10,9 +10,9 @@ class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         # Build the graph to include root edge along with left,right
         parent = defaultdict(int)
-        stack = [root]
-
+        
         def createGraph():
+            stack = [root]
             while stack:
                 currentNode = stack.pop()
                 if currentNode.left:
