@@ -414,6 +414,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
+| [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
@@ -466,6 +467,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
@@ -740,6 +742,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
