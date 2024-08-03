@@ -558,6 +558,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbakash/CP-python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rbakash/CP-python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/rbakash/CP-python/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rbakash/CP-python/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/rbakash/CP-python/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
@@ -750,6 +751,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Rolling Hash
 |  |
@@ -781,6 +783,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2470-removing-stars-from-a-string](https://github.com/rbakash/CP-python/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
