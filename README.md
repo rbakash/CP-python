@@ -929,6 +929,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rbakash/CP-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 ## Memoization
 |  |
@@ -951,6 +952,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/rbakash/CP-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rbakash/CP-python/tree/master/0237-delete-node-in-a-linked-list) |
 ## Merge Sort
 |  |
