@@ -441,6 +441,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rbakash/CP-python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rbakash/CP-python/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -521,6 +522,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rbakash/CP-python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/rbakash/CP-python/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -679,6 +681,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rbakash/CP-python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -813,6 +816,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rbakash/CP-python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
@@ -834,6 +838,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rbakash/CP-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/rbakash/CP-python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
