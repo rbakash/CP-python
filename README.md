@@ -414,6 +414,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
+| [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
@@ -837,6 +838,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -851,6 +853,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
+| [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
