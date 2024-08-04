@@ -21,22 +21,28 @@ class Solution:
                 noOfLifes = 0
                 for offSetRow, offSetCol in directions:
                     newRow, newCol = row + offSetRow, col + offSetCol
-                    if not (-1 < newRow < rows) or not (-1 < newCol < cols):
-                        continue
-                    if board[newRow][newCol] == 1:
-                        noOfLifes += 1
+                    if (-1 < newRow < rows) and (-1 < newCol < cols) and abs(board[newRow][newCol]) == 1:
+                            noOfLifes += 1
                 
                 if board[row][col] == 1:
                     if noOfLifes<2 or noOfLifes >3:
-                        updates.append((row, col, 0))
+                        # updates.append((row, col, 0))
+                        board[row][col]=-1
 
                 else :
                     if noOfLifes ==3:
-                        updates.append((row, col, 1))
+                        board[row][col]=2
+                        # updates.append((row, col, 1))
                 
         print(updates)
         # update the board m*n for each value in updates
-        for row, col, value in updates:
-            board[row][col] = value
+        # for row, col, value in updates:
+        #     board[row][col] = value
+        for row in range(rows):
+            for col in range(cols):
+                if board[row][col] <=0:
+                    board[row][col] =0
+                else:
+                    board[row][col] =1
         print(board)
         return None
