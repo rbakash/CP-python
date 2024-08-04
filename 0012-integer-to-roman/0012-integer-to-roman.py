@@ -19,6 +19,8 @@ class Solution:
         for romanNum,symbol in pattern.items():
             if num == 0:
                 break
-            count, num = divmod(num,romanNum)
-            romanDigits.append(symbol*count)
+            count = (num//romanNum)
+            if count:
+                num -= (romanNum*count)
+                romanDigits.append(symbol*count)
         return "".join(romanDigits)
