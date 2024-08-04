@@ -13,16 +13,16 @@ class HitCounter:
     def getHits(self, timestamp: int) -> int:
         # perfomr binary search till timestamp -300
         target = timestamp-300
-        low,high = self.low, self.totalHits-1
+        high =self.totalHits-1
         
-        while low<=high:
-            mid = (low+high)//2
+        while self.low<=high:
+            mid = (self.low+high)//2
               
             if self.hits[mid] <= target:
-                 low=mid+1
+                 self.low=mid+1
             else:
                high = mid-1
-        self.low=low
+        
         return self.totalHits - self.low
 
 
