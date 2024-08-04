@@ -418,6 +418,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -469,6 +470,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
+| [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
@@ -640,6 +642,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
@@ -950,6 +953,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
 ## Number Theory
 |  |
 | ------- |
@@ -964,4 +968,8 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
