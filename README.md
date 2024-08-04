@@ -502,6 +502,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -529,6 +530,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rbakash/CP-python/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/rbakash/CP-python/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/rbakash/CP-python/tree/master/0151-reverse-words-in-a-string) |
@@ -643,6 +645,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
