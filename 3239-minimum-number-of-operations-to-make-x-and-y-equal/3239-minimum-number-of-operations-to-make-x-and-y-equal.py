@@ -40,10 +40,10 @@ class Solution:
         if x <= y:
             return y-x
         operations = abs(x-y)
-        operations = min(operations,1+x%5+self.minimumOperationsToMakeEqual(x//5,y))
-        operations = min(operations,1+(5-x%5)+self.minimumOperationsToMakeEqual(x//5+1,y))
-        operations = min(operations,1+x%11+self.minimumOperationsToMakeEqual(x//11,y))
-        operations = min(operations,1+(11-x%11)+self.minimumOperationsToMakeEqual(x//11+1,y))
+        for divider in [5,11]:
+            operations = min(operations,1+x%divider+self.minimumOperationsToMakeEqual(x//divider,y))
+            operations = min(operations,1+(divider-x%divider)+self.minimumOperationsToMakeEqual(x//divider+1,y))
+       
         return operations
 
 
