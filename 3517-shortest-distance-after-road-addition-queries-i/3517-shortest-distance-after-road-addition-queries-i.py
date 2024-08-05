@@ -29,7 +29,7 @@ class Solution:
             minHeap = [(0,0)]
 
             while minHeap:
-                currentNode, currentDistance = heappop(minHeap)
+                currentDistance,currentNode = heappop(minHeap)
                 if currentNode == n-1:
                     return distance[n-1]
                 if currentNode in visited or currentDistance > distance[currentNode]:
@@ -43,7 +43,7 @@ class Solution:
                     if newDistance < distance[eachNeighbor]:
                         # Update the weight
                         distance[eachNeighbor]=newDistance
-                        heappush(minHeap,(eachNeighbor,newDistance))
+                        heappush(minHeap,(newDistance,eachNeighbor))
             return distance[n-1]
                 
         # find the shortestpath for first time
