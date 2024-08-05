@@ -709,6 +709,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
 |  |
 | ------- |
@@ -766,6 +767,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Rolling Hash
 |  |
@@ -950,6 +952,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rbakash/CP-python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Interactive
 |  |
 | ------- |
