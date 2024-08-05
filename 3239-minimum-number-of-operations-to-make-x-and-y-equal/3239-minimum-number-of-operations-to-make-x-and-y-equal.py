@@ -1,5 +1,5 @@
 class Solution:
-    def minimumOperationsToMakeEqual(self, x: int, y: int) -> int:
+    def minimumOperationsToMakeEqualBFS(self, x: int, y: int) -> int:
         if x<=y:
             return y-x
         queue = deque([(x,0)])
@@ -36,3 +36,15 @@ class Solution:
         
         return -1
             
+    def minimumOperationsToMakeEqual(self, x: int, y: int) -> int:
+        if x <= y:
+            return y-x
+        operations = abs(x-y)
+        operations = min(operations,1+x%5+self.minimumOperationsToMakeEqual(x//5,y))
+        operations = min(operations,1+(5-x%5)+self.minimumOperationsToMakeEqual(x//5+1,y))
+        operations = min(operations,1+x%11+self.minimumOperationsToMakeEqual(x//11,y))
+        operations = min(operations,1+(11-x%11)+self.minimumOperationsToMakeEqual(x//11+1,y))
+        return operations
+
+
+    
