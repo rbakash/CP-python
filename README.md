@@ -458,6 +458,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
@@ -572,6 +573,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/rbakash/CP-python/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
 | [2470-removing-stars-from-a-string](https://github.com/rbakash/CP-python/tree/master/2470-removing-stars-from-a-string) |
 | [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
@@ -686,6 +688,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -739,6 +742,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rbakash/CP-python/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -824,6 +828,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/rbakash/CP-python/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -882,6 +887,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/rbakash/CP-python/tree/master/0820-find-eventual-safe-states) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Backtracking
 |  |
 | ------- |
