@@ -10,11 +10,9 @@ class Solution:
         def dfs(root):
             if not root:
                 return 0
-            
             leftMaxSum = max(dfs(root.left),0)
             rightMaxSum = max(dfs(root.right),0)
             self.maxPathSum = max(self.maxPathSum, leftMaxSum+rightMaxSum+root.val)
-
-            return root.val + max(leftMaxSum,rightMaxSum)
+            return root.val+max(leftMaxSum,rightMaxSum)
         dfs(root)
-        return self.maxPathSum 
+        return self.maxPathSum
