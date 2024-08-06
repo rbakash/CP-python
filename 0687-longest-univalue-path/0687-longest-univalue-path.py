@@ -7,9 +7,9 @@
 class Solution:
     def longestUnivaluePath(self, root: Optional[TreeNode]) -> int:
         self.maxLength = 0
-        def dfs(root)->tuple:
+        def dfsMyVersion(root)->tuple:
             if not root:
-                return (2000,2000)
+                return 0
 
             leftPath= dfs(root.left)
             rightPath = dfs(root.right)
@@ -23,5 +23,12 @@ class Solution:
                 self.maxLength = max(self.maxLength, 1+rightPath[0])
                 return ((rightPath[0]+1),root.val)
             return (0,root.val)
-        dfs(root)
+        def dfs(root,parent)->int:
+            if not root:
+                return 0
+            leftMaxPath = dfs(root.left,root.val)
+            rightMaxPath = dfs(root.right,root.val)
+            self.maxLength = max(self.maxLength, leftMaxPath+rightMaxPath)
+            return max(leftMaxPath,rightMaxPath)+1 if root.val == parent else 0 
+        dfs(root,None)
         return self.maxLength 
