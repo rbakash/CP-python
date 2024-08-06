@@ -15,6 +15,6 @@ class Solution:
             rightMaxSum = max(dfs(root.right),0)
             self.maxPathSum = max(self.maxPathSum, leftMaxSum+rightMaxSum+root.val)
 
-            return max(leftMaxSum+root.val,rightMaxSum+root.val)
+            return root.val + max(leftMaxSum,rightMaxSum)
         dfs(root)
         return self.maxPathSum 
