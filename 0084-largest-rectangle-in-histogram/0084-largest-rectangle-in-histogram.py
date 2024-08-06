@@ -1,4 +1,5 @@
 class Solution:
+    # Brute - O(n^2)
     def largestRectangleAreaBrute(self, heights: List[int]) -> int:
         n = len(heights)
         maxArea =0
@@ -13,6 +14,7 @@ class Solution:
                     maxArea = currentArea
             print(maxArea)
         return maxArea
+    # Divide conquer - O(nlogn)
     def largestRectangleAreaDivideConquer(self, heights: List[int]) -> int:
         def calculateArea(start,end)->int:
             if start > end:
@@ -29,6 +31,7 @@ class Solution:
             return maxArea
         return calculateArea(0,len(heights)-1)
 
+    # monotic stack - O(n)
     def largestRectangleArea(self, height: List[int]) -> int:
         height.append(0)
         stack = [-1]
