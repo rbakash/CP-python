@@ -666,6 +666,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rbakash/CP-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rbakash/CP-python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0285-inorder-successor-in-bst](https://github.com/rbakash/CP-python/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
@@ -763,6 +764,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rbakash/CP-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
@@ -813,6 +815,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rbakash/CP-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rbakash/CP-python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0285-inorder-successor-in-bst](https://github.com/rbakash/CP-python/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
@@ -836,6 +839,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rbakash/CP-python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rbakash/CP-python/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0285-inorder-successor-in-bst](https://github.com/rbakash/CP-python/tree/master/0285-inorder-successor-in-bst) |
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
