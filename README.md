@@ -414,6 +414,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/rbakash/CP-python/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
 | [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
@@ -590,6 +591,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/rbakash/CP-python/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
