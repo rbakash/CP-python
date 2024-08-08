@@ -5,7 +5,7 @@ class Solution:
         def recrusive(index):
             if index in dp:
                 return dp[index]
-            if index >= n:
+            if index == n:
                 return 1
             if s[index]=='0':
                 return 0
