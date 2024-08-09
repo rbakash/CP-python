@@ -8,7 +8,7 @@ class Solution:
             queue.append(i)
         answer.append(nums[queue[0]])
         for index in range(k,len(nums)):
-            if queue and queue[0] == index-k:
+            if queue and index-k  >= queue[0]:
                 queue.popleft()
             while queue and nums[index] >= nums[queue[-1]]:
                 queue.pop()
