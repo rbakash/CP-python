@@ -416,6 +416,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/rbakash/CP-python/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/rbakash/CP-python/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
@@ -490,6 +491,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/rbakash/CP-python/tree/master/0940-fruit-into-baskets) |
@@ -927,6 +929,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/rbakash/CP-python/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
@@ -1005,5 +1008,10 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
