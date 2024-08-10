@@ -48,7 +48,10 @@ class Solution:
                     results.append(currentWords[0] + ' ' * (maxWidth - currentLength))
                 else:
                     spacesNeeded = maxWidth - (currentLength)
-                    spacesNeededPerWord,extraSpaceAfterEachWord = divmod( spacesNeeded, len(currentWords)-1)
+                    wordCount = len(currentWords)-1
+                    spacesNeededPerWord = (maxWidth - currentLength) // wordCount
+                    extraSpaceAfterEachWord = (maxWidth - currentLength) % wordCount
+                    # spacesNeededPerWord,extraSpaceAfterEachWord = divmod( spacesNeeded, len(currentWords)-1)
 
                     for spaceIndex in range(extraSpaceAfterEachWord):
                         currentWords[spaceIndex]+=" "
