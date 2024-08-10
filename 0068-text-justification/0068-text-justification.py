@@ -32,12 +32,32 @@ class Solution:
             # Concatinate the words to form a line
             return " ".join(currentLine)
         
-        results=[]
-        index = 0
+        # results=[]
+        # index = 0
         
-        while index < len(words):
-            currentLine=getAllWords(index)
-            index+=len(currentLine)
-            results.append(createLine(currentLine,index))
-        
+        # while index < len(words):
+        #     currentLine=getAllWords(index)
+        #     index+=len(currentLine)
+        #     results.append(createLine(currentLine,index))
+
+        results, currentLength, currentWords = [],0,[]
+        for eachWord in words:
+            if currentLength + len(currentWords) + len(eachWord) > maxWidth:
+                if len(currentWords) ==1:
+                    
+                    results.append(currentWords[0] + ' ' * (maxWidth - currentLength))
+                else:
+                    spacesNeeded = maxWidth - (currentLength)
+                    spacesNeededPerWord,extraSpaceAfterEachWord = divmod( spacesNeeded, len(currentWords)-1)
+
+                    for spaceIndex in range(extraSpaceAfterEachWord):
+                        currentWords[spaceIndex]+=" "
+                    results.append((" "*spacesNeededPerWord).join(currentWords))
+                currentWords,currentLength = [],0
+            currentWords+=[eachWord]
+            currentLength += len(eachWord)
+        print(currentWords, currentLength)
+        finalLine = ' '.join(currentWords)
+        results.append(finalLine + ' ' * (maxWidth - len(finalLine)))
+       
         return results
