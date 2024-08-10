@@ -413,6 +413,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0047-permutations-ii](https://github.com/rbakash/CP-python/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/rbakash/CP-python/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/rbakash/CP-python/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
@@ -541,6 +542,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rbakash/CP-python/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
+| [0068-text-justification](https://github.com/rbakash/CP-python/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/rbakash/CP-python/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/rbakash/CP-python/tree/master/0093-restore-ip-addresses) |
@@ -874,6 +876,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/rbakash/CP-python/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
