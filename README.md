@@ -454,6 +454,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rbakash/CP-python/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rbakash/CP-python/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [1962-single-threaded-cpu](https://github.com/rbakash/CP-python/tree/master/1962-single-threaded-cpu) |
@@ -729,6 +730,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1492-time-needed-to-inform-all-employees](https://github.com/rbakash/CP-python/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
@@ -791,6 +793,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rbakash/CP-python/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Rolling Hash
