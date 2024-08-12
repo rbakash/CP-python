@@ -428,6 +428,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
+| [0554-brick-wall](https://github.com/rbakash/CP-python/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rbakash/CP-python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
@@ -520,6 +521,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/rbakash/CP-python/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
