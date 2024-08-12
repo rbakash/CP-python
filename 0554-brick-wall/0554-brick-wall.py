@@ -1,12 +1,11 @@
 class Solution:
     def leastBricks(self, wall: List[List[int]]) -> int:
-        endMap=defaultdict(int)
+        countGap=defaultdict(int)
         maxBrickEnds =0
         for index in range(len(wall)):
-            start =0
-            for brick in wall[index][:-1]:
-                endMap[start+brick]+=1
-                maxBrickEnds = max(maxBrickEnds,endMap[start+brick])
-                start+=brick
-
+            position =0
+            for currentBrick in wall[index][:-1]:
+                countGap[position+currentBrick]+=1
+                maxBrickEnds = max(maxBrickEnds,countGap[position+currentBrick])
+                position+=currentBrick
         return len(wall) - maxBrickEnds
