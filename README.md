@@ -464,6 +464,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
@@ -540,6 +541,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -677,6 +679,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 ## Depth-First Search
@@ -913,6 +916,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
@@ -1007,6 +1011,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Linked List
 |  |
 | ------- |
