@@ -1,5 +1,5 @@
 class Solution:
-    def countPalindromicSubsequence(self, s: str) -> int:
+    def countPalindromicSubsequenceConstantSpace(self, s: str) -> int:
         firstOccurence,lastOccurence=[-1]*26,[-1]*26
         for index in range(len(s)):
             charIndex = ord(s[index])-ord('a')
@@ -17,4 +17,12 @@ class Solution:
             noOfPalindromes +=len(uniqueCharacters)
         
         return noOfPalindromes
-            
+    # Using find and rfind
+    def countPalindromicSubsequence(self, s: str) -> int:
+        noOfPalindromes = 0
+        for char in set(s):
+            leftOccurence = s.find(char)
+            rightOccurence = s.rfind(char)
+            uniqueCharacters=set(s[leftOccurence+1:rightOccurence])
+            noOfPalindromes +=len(uniqueCharacters)
+        return noOfPalindromes
