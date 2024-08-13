@@ -11,9 +11,9 @@ class Solution:
         for index in range(26):
             if firstOccurence[index]==-1:
                 continue
-            uniqueCharacters=set()
-            for k in range(firstOccurence[index]+1,lastOccurence[index]):
-                uniqueCharacters.add(s[k])
+            uniqueCharacters=set(s[firstOccurence[index]+1:lastOccurence[index]])
+            # for k in range(firstOccurence[index]+1,lastOccurence[index]):
+            #     uniqueCharacters.add(s[k])
             noOfPalindromes +=len(uniqueCharacters)
         
         return noOfPalindromes
