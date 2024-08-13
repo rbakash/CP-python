@@ -513,6 +513,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rbakash/CP-python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -539,6 +540,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rbakash/CP-python/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rbakash/CP-python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -588,6 +590,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rbakash/CP-python/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/rbakash/CP-python/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rbakash/CP-python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2373-apply-discount-to-prices](https://github.com/rbakash/CP-python/tree/master/2373-apply-discount-to-prices) |
@@ -823,6 +826,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rbakash/CP-python/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rbakash/CP-python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/rbakash/CP-python/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Stack
