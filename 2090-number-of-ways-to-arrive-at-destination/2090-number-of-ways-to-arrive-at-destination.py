@@ -22,7 +22,7 @@ class Solution:
                     noOfPaths[eachNeigbhor]=noOfPaths[currentNode]
                     heappush(minHeap, (newWeight, eachNeigbhor))
                 elif newWeight == distance[eachNeigbhor] :
-                    noOfPaths[eachNeigbhor]=(noOfPaths[currentNode] + noOfPaths[eachNeigbhor]) % 1_000_000_007
+                    noOfPaths[eachNeigbhor]=(noOfPaths[currentNode] + noOfPaths[eachNeigbhor]) % (10**9 + 7)
             
         # now just count the shortest pat
         return noOfPaths[n-1]
