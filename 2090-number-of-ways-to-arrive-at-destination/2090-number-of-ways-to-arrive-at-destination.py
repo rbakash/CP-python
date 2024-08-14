@@ -2,7 +2,7 @@ class Solution:
     def countPaths(self, n: int, roads: List[List[int]]) -> int:
         adjList=defaultdict(list)
         distance= [float("inf")]*n
-        
+
         # create  the graph
         for src,dest,weight in roads:
             adjList[src].append((dest,weight))
@@ -11,6 +11,7 @@ class Solution:
         minHeap = [(0,0)]
         noOfPaths=[0]*n
         noOfPaths[0]=1
+        
         while minHeap:
             currentWeight,currentNode = heappop(minHeap)
             
