@@ -2,8 +2,6 @@ class Solution:
     def shortestPath(self, grid: List[List[int]], k: int) -> int:
         directions=[(0,-1),(0,1),(-1,0),(1,0)]
         rows,cols = len(grid),len(grid[0])
-        minObstacles=[[float("inf")]*cols for _ in range(rows)]
-        minObstacles[0][0]=grid[0][0]
         queue=deque([(grid[0][0],0,0,0)]) # obstacles,steps,row,col
         visited = set()
         
