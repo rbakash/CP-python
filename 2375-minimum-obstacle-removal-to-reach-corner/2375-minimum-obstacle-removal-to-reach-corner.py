@@ -15,5 +15,5 @@ class Solution:
             for rowOffset,colOffset in directions:
                 newRow,newCol = currentRow+rowOffset,currentCol+colOffset
                 if 0<=newRow<rows and 0<=newCol<cols and (newRow,newCol) not in visited:
-                    heappush(minHeap, (grid[newRow][newCol],currentBlockages+grid[newRow][newCol],newRow,newCol))
+                    heappush(minHeap, (currentWeight+grid[newRow][newCol],currentBlockages+grid[newRow][newCol],newRow,newCol))
         return -1
