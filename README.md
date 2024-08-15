@@ -428,6 +428,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
+| [0550-shortest-path-to-get-food](https://github.com/rbakash/CP-python/tree/master/0550-shortest-path-to-get-food) |
 | [0554-brick-wall](https://github.com/rbakash/CP-python/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rbakash/CP-python/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -730,6 +731,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rbakash/CP-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/rbakash/CP-python/tree/master/0513-find-bottom-left-tree-value) |
+| [0550-shortest-path-to-get-food](https://github.com/rbakash/CP-python/tree/master/0550-shortest-path-to-get-food) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/rbakash/CP-python/tree/master/0753-open-the-lock) |
@@ -933,6 +935,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
+| [0550-shortest-path-to-get-food](https://github.com/rbakash/CP-python/tree/master/0550-shortest-path-to-get-food) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rbakash/CP-python/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
