@@ -21,7 +21,7 @@ class Solution:
             for rowOffset,colOffset in directions:
                 newRow,newCol = currentRow+rowOffset,currentCol+colOffset
                 if 0<=newRow<rows and 0<=newCol<cols and grid[newRow][newCol] !="X":
-                    
+                    # mark as X so we don't visit it again
                     grid[newRow][newCol]='X' if grid[newRow][newCol]!='#' else '#'
                     minHeap.append((currentCost+1,newRow,newCol))
         return -1
