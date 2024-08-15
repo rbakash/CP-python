@@ -4,6 +4,9 @@ class Solution:
         rows,cols = len(grid),len(grid[0])
         queue=deque([(grid[0][0],0,0,0)]) # obstacles,steps,row,col
         visited = set()
+
+        if k >= rows + cols - 2:
+            return rows + cols - 2
         
         while queue:
             currentObstacles,currentWeight,currentRow,currentCol = queue.popleft()
