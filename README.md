@@ -467,6 +467,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
@@ -745,6 +746,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
 |  |
@@ -777,6 +779,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rbakash/CP-python/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rbakash/CP-python/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -785,6 +788,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rbakash/CP-python/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rbakash/CP-python/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Enumeration
 |  |
@@ -924,6 +928,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -973,6 +978,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1499-maximum-performance-of-a-team](https://github.com/rbakash/CP-python/tree/master/1499-maximum-performance-of-a-team) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/rbakash/CP-python/tree/master/1962-single-threaded-cpu) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 ## Minimum Spanning Tree
