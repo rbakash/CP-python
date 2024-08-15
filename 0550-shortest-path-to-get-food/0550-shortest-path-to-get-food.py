@@ -11,9 +11,9 @@ class Solution:
                 if grid[row][col] == "*":
                     startingRow,startingCol = row,col
                     break
-        minHeap=[[0,startingRow,startingCol]]
+        minHeap=deque([(0,startingRow,startingCol)])
         while minHeap:
-            currentCost,currentRow,currentCol = heappop(minHeap)
+            currentCost,currentRow,currentCol = minHeap.popleft()
             if grid[currentRow][currentCol] =="#":
                 return currentCost
 
@@ -22,5 +22,5 @@ class Solution:
                 if 0<=newRow<rows and 0<=newCol<cols and (newRow,newCol) not in visited:
                     visited.add((newRow,newCol))
                     if grid[newRow][newCol] in ["O","#"]:
-                        heappush(minHeap,(currentCost+1,newRow,newCol))
+                        minHeap.append((currentCost+1,newRow,newCol))
         return -1
