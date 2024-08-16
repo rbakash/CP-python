@@ -677,6 +677,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rbakash/CP-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
+| [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rbakash/CP-python/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
@@ -860,6 +861,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
+| [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1053,6 +1055,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0023-merge-k-sorted-lists](https://github.com/rbakash/CP-python/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rbakash/CP-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rbakash/CP-python/tree/master/0237-delete-node-in-a-linked-list) |
+| [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1066,4 +1069,12 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
 <!---LeetCode Topics End-->
