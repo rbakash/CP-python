@@ -586,6 +586,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
+| [1252-break-a-palindrome](https://github.com/rbakash/CP-python/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -624,6 +625,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0917-boats-to-save-people](https://github.com/rbakash/CP-python/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [1051-shortest-way-to-form-string](https://github.com/rbakash/CP-python/tree/master/1051-shortest-way-to-form-string) |
+| [1252-break-a-palindrome](https://github.com/rbakash/CP-python/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/rbakash/CP-python/tree/master/1304-longest-happy-string) |
 | [1499-maximum-performance-of-a-team](https://github.com/rbakash/CP-python/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/rbakash/CP-python/tree/master/1502-construct-k-palindrome-strings) |
