@@ -11,8 +11,8 @@ class Solution:
             else:
                 right-=1
         print(right,index)
-        if index == right:
-            string[left]="b"
+        # if index == right:
+        #     string[left]="b"
         if index >right:
             string[len(string)-1]="b"
         return "".join(string)
