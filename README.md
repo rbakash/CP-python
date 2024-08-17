@@ -570,6 +570,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rbakash/CP-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0394-decode-string](https://github.com/rbakash/CP-python/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
@@ -866,6 +867,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/rbakash/CP-python/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
@@ -1034,6 +1036,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rbakash/CP-python/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/rbakash/CP-python/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 ## Memoization
 |  |
