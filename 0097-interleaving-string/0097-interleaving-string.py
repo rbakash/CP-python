@@ -1,5 +1,5 @@
 class Solution:
-    def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
+    def isInterleaveEditorial(self, s1: str, s2: str, s3: str) -> bool:
         def recursive(s1,i,s2,j,s3,k):
             if i ==len(s1):
                 return s2[j:]==s3[k:]
@@ -18,6 +18,25 @@ class Solution:
         return recursive(s1,0,s2,0,s3,0)
 
 
-
+    def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
+        dp={}
+        def recursive(i,j,k):
+            if k == len(s3):
+                return i == len(s1) and j == len(s2)
+            if (i,j) in dp:
+                return dp[(i,j)]
+            ans = False
+            if i < len(s1) and s1[i] ==s3[k]:
+                if recursive(i+1,j,k+1):
+                    dp[(i,j)]= True
+                    return True
+            if j < len(s2) and s2[j] ==s3[k]:
+                if recursive(i,j+1,k+1):
+                    dp[(i,j)]= True
+                    return True
+            dp[(i,j)]=False
+            return False
+        return recursive(0,0,0)
+            
 
 
