@@ -410,6 +410,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rbakash/CP-python/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/rbakash/CP-python/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
@@ -522,6 +523,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/rbakash/CP-python/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/rbakash/CP-python/tree/master/0187-repeated-dna-sequences) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
