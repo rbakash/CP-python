@@ -413,6 +413,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0041-first-missing-positive](https://github.com/rbakash/CP-python/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/rbakash/CP-python/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rbakash/CP-python/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/rbakash/CP-python/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
@@ -927,6 +928,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rbakash/CP-python/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/rbakash/CP-python/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
@@ -942,6 +944,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rbakash/CP-python/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/rbakash/CP-python/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
