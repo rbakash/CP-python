@@ -693,6 +693,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rbakash/CP-python/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rbakash/CP-python/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
@@ -1039,6 +1040,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rbakash/CP-python/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/rbakash/CP-python/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/rbakash/CP-python/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
 ## Memoization
