@@ -4,29 +4,47 @@ class Solution:
         # if no * and len is less, then pattern won't match
         if "*" not in p and len(p)!=len(s): 
             return False
-        @lru_cache(maxsize = None)
+
+        # remove the extra * to help reduce the recursion tree
+        result=[]
+        for char in p:
+            if not result or char!="*":
+                result.append(char)
+            else:
+                if result[-1]!="*":
+                    result.append(char)
+        p = "".join(result)
+        print(p)
+        dp={}
         def recursive(stringIndex,patternIndex):
+            if (stringIndex,patternIndex) in dp:
+                return dp[(stringIndex,patternIndex)]
             if stringIndex == len(s) and len(p) == patternIndex:
                 return True
 
             if len(p) == patternIndex:
+                dp[(stringIndex,patternIndex)] = False
                 return False
             
             if len(s) == stringIndex and p[patternIndex] != "*":
+                dp[(stringIndex,patternIndex)] = False
                 return False
             
             # Else recur with next character
             if p[patternIndex] != "*":
                 if p[patternIndex] =="?":
-                    return recursive(stringIndex+1,patternIndex+1)
+                    dp[(stringIndex,patternIndex)]  = recursive(stringIndex+1,patternIndex+1)
+                    return dp[(stringIndex,patternIndex)]
                 else:
-                    return s[stringIndex] == p[patternIndex] and recursive(stringIndex+1,patternIndex+1)
+                    dp[(stringIndex,patternIndex)]  = s[stringIndex] == p[patternIndex] and recursive(stringIndex+1,patternIndex+1)
+                    return dp[(stringIndex,patternIndex)]
             else:
                 # if its *, move the index to len(s)-remaing pattern
                 nomatch = recursive(stringIndex, patternIndex+1)
                 # Match 1 char.
                 matchone = stringIndex <= len(s)-1 and recursive(stringIndex+1, patternIndex)
-                return nomatch or matchone
+                dp[(stringIndex,patternIndex)] = nomatch or matchone
+                return dp[(stringIndex,patternIndex)]
         return recursive(0,0)
 
                     
