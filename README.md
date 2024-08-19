@@ -559,6 +559,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rbakash/CP-python/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rbakash/CP-python/tree/master/0012-integer-to-roman) |
+| [0044-wildcard-matching](https://github.com/rbakash/CP-python/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/rbakash/CP-python/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/rbakash/CP-python/tree/master/0091-decode-ways) |
@@ -620,6 +621,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rbakash/CP-python/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/rbakash/CP-python/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
@@ -816,6 +818,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rbakash/CP-python/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/rbakash/CP-python/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/rbakash/CP-python/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
@@ -1040,6 +1043,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rbakash/CP-python/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/rbakash/CP-python/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rbakash/CP-python/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/rbakash/CP-python/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
