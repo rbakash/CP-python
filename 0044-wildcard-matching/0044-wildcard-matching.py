@@ -4,7 +4,8 @@ class Solution:
         # if no * and len is less, then pattern won't match
         if "*" not in p and len(p)!=len(s): 
             return False
-
+        if s == p:
+            return True
         # remove the extra * to help reduce the recursion tree
         result=[]
         for char in p:
