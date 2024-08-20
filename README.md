@@ -570,6 +570,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0165-compare-version-numbers](https://github.com/rbakash/CP-python/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/rbakash/CP-python/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0187-repeated-dna-sequences](https://github.com/rbakash/CP-python/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/rbakash/CP-python/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rbakash/CP-python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rbakash/CP-python/tree/master/0318-maximum-product-of-word-lengths) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -699,6 +700,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0050-powx-n](https://github.com/rbakash/CP-python/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/rbakash/CP-python/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/rbakash/CP-python/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/rbakash/CP-python/tree/master/0227-basic-calculator-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -874,6 +876,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0071-simplify-path](https://github.com/rbakash/CP-python/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0227-basic-calculator-ii](https://github.com/rbakash/CP-python/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/rbakash/CP-python/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
