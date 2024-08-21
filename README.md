@@ -472,6 +472,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/rbakash/CP-python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
@@ -639,6 +640,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/rbakash/CP-python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
 ## Sorting
@@ -708,6 +710,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/rbakash/CP-python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [3030-find-the-k-th-lucky-number](https://github.com/rbakash/CP-python/tree/master/3030-find-the-k-th-lucky-number) |
 ## Depth-First Search
 |  |
