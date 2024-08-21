@@ -704,6 +704,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0227-basic-calculator-ii](https://github.com/rbakash/CP-python/tree/master/0227-basic-calculator-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/rbakash/CP-python/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -867,6 +868,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rbakash/CP-python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/rbakash/CP-python/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rbakash/CP-python/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rbakash/CP-python/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -993,6 +995,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0800-letter-case-permutation](https://github.com/rbakash/CP-python/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/rbakash/CP-python/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/rbakash/CP-python/tree/master/1160-letter-tile-possibilities) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/rbakash/CP-python/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rbakash/CP-python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/rbakash/CP-python/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
