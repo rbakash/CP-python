@@ -707,6 +707,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0633-sum-of-square-numbers](https://github.com/rbakash/CP-python/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/rbakash/CP-python/tree/master/0738-monotone-increasing-digits) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/rbakash/CP-python/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/rbakash/CP-python/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
