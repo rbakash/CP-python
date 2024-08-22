@@ -469,6 +469,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -497,6 +498,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/rbakash/CP-python/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2027-maximum-number-of-removable-characters](https://github.com/rbakash/CP-python/tree/master/2027-maximum-number-of-removable-characters) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rbakash/CP-python/tree/master/2665-minimum-time-to-repair-cars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rbakash/CP-python/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
@@ -639,6 +641,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/rbakash/CP-python/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2475-largest-palindromic-number](https://github.com/rbakash/CP-python/tree/master/2475-largest-palindromic-number) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/rbakash/CP-python/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
@@ -660,6 +663,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rbakash/CP-python/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1962-single-threaded-cpu](https://github.com/rbakash/CP-python/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2636-maximum-subsequence-score](https://github.com/rbakash/CP-python/tree/master/2636-maximum-subsequence-score) |
 | [3226-minimum-number-game](https://github.com/rbakash/CP-python/tree/master/3226-minimum-number-game) |
 | [3504-minimum-moves-to-get-a-peaceful-board](https://github.com/rbakash/CP-python/tree/master/3504-minimum-moves-to-get-a-peaceful-board) |
@@ -1097,10 +1101,12 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rbakash/CP-python/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Doubly-Linked List
 |  |
 | ------- |
