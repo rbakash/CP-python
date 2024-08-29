@@ -469,6 +469,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/rbakash/CP-python/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rbakash/CP-python/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2145-grid-game](https://github.com/rbakash/CP-python/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rbakash/CP-python/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rbakash/CP-python/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/rbakash/CP-python/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -523,6 +524,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rbakash/CP-python/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/rbakash/CP-python/tree/master/2145-grid-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -972,6 +974,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rbakash/CP-python/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2145-grid-game](https://github.com/rbakash/CP-python/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Counting Sort
 |  |
