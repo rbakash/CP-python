@@ -450,6 +450,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rbakash/CP-python/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [1117-as-far-from-land-as-possible](https://github.com/rbakash/CP-python/tree/master/1117-as-far-from-land-as-possible) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rbakash/CP-python/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/rbakash/CP-python/tree/master/1325-path-with-maximum-probability) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rbakash/CP-python/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -773,6 +774,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rbakash/CP-python/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [1117-as-far-from-land-as-possible](https://github.com/rbakash/CP-python/tree/master/1117-as-far-from-land-as-possible) |
 | [1142-minimum-knight-moves](https://github.com/rbakash/CP-python/tree/master/1142-minimum-knight-moves) |
 | [1275-validate-binary-tree-nodes](https://github.com/rbakash/CP-python/tree/master/1275-validate-binary-tree-nodes) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rbakash/CP-python/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -852,6 +854,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/rbakash/CP-python/tree/master/0868-push-dominoes) |
 | [0930-all-possible-full-binary-trees](https://github.com/rbakash/CP-python/tree/master/0930-all-possible-full-binary-trees) |
+| [1117-as-far-from-land-as-possible](https://github.com/rbakash/CP-python/tree/master/1117-as-far-from-land-as-possible) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rbakash/CP-python/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -976,6 +979,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0550-shortest-path-to-get-food](https://github.com/rbakash/CP-python/tree/master/0550-shortest-path-to-get-food) |
 | [1073-number-of-enclaves](https://github.com/rbakash/CP-python/tree/master/1073-number-of-enclaves) |
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
+| [1117-as-far-from-land-as-possible](https://github.com/rbakash/CP-python/tree/master/1117-as-far-from-land-as-possible) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rbakash/CP-python/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2145-grid-game](https://github.com/rbakash/CP-python/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
