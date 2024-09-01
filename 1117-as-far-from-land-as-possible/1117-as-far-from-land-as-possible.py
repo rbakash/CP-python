@@ -1,6 +1,6 @@
 class Solution:
     def maxDistance(self, grid: List[List[int]]) -> int:
-        maxDistance,currentDistance=0,0
+        currentDistance=0
         queue=deque() # currentIndex,  startedFrom Index     
         visited = set()
         directions=[(-1,0),(1,0),(0,-1),(0,1)]
