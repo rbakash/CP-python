@@ -464,6 +464,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1762-furthest-building-you-can-reach](https://github.com/rbakash/CP-python/tree/master/1762-furthest-building-you-can-reach) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
+| [1876-map-of-highest-peak](https://github.com/rbakash/CP-python/tree/master/1876-map-of-highest-peak) |
 | [1962-single-threaded-cpu](https://github.com/rbakash/CP-python/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/rbakash/CP-python/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/rbakash/CP-python/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -782,6 +783,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rbakash/CP-python/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/rbakash/CP-python/tree/master/1731-even-odd-tree) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/rbakash/CP-python/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1876-map-of-highest-peak](https://github.com/rbakash/CP-python/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/rbakash/CP-python/tree/master/2104-operations-on-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/rbakash/CP-python/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -981,6 +983,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [1099-path-with-maximum-minimum-value](https://github.com/rbakash/CP-python/tree/master/1099-path-with-maximum-minimum-value) |
 | [1117-as-far-from-land-as-possible](https://github.com/rbakash/CP-python/tree/master/1117-as-far-from-land-as-possible) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/rbakash/CP-python/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1876-map-of-highest-peak](https://github.com/rbakash/CP-python/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/rbakash/CP-python/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rbakash/CP-python/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Counting Sort
