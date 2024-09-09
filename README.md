@@ -432,6 +432,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0526-beautiful-arrangement](https://github.com/rbakash/CP-python/tree/master/0526-beautiful-arrangement) |
 | [0550-shortest-path-to-get-food](https://github.com/rbakash/CP-python/tree/master/0550-shortest-path-to-get-food) |
 | [0554-brick-wall](https://github.com/rbakash/CP-python/tree/master/0554-brick-wall) |
+| [0565-array-nesting](https://github.com/rbakash/CP-python/tree/master/0565-array-nesting) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/rbakash/CP-python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
@@ -734,6 +735,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0337-house-robber-iii](https://github.com/rbakash/CP-python/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/rbakash/CP-python/tree/master/0513-find-bottom-left-tree-value) |
+| [0565-array-nesting](https://github.com/rbakash/CP-python/tree/master/0565-array-nesting) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rbakash/CP-python/tree/master/0669-trim-a-binary-search-tree) |
