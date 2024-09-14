@@ -544,6 +544,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0554-brick-wall](https://github.com/rbakash/CP-python/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/rbakash/CP-python/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/rbakash/CP-python/tree/master/0652-find-duplicate-subtrees) |
+| [0694-number-of-distinct-islands](https://github.com/rbakash/CP-python/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/rbakash/CP-python/tree/master/0753-open-the-lock) |
 | [0808-number-of-matching-subsequences](https://github.com/rbakash/CP-python/tree/master/0808-number-of-matching-subsequences) |
@@ -740,6 +741,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rbakash/CP-python/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/rbakash/CP-python/tree/master/0687-longest-univalue-path) |
+| [0694-number-of-distinct-islands](https://github.com/rbakash/CP-python/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rbakash/CP-python/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/rbakash/CP-python/tree/master/0813-all-paths-from-source-to-target) |
@@ -766,6 +768,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0513-find-bottom-left-tree-value](https://github.com/rbakash/CP-python/tree/master/0513-find-bottom-left-tree-value) |
 | [0550-shortest-path-to-get-food](https://github.com/rbakash/CP-python/tree/master/0550-shortest-path-to-get-food) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rbakash/CP-python/tree/master/0662-maximum-width-of-binary-tree) |
+| [0694-number-of-distinct-islands](https://github.com/rbakash/CP-python/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/rbakash/CP-python/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rbakash/CP-python/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -793,6 +796,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+| [0694-number-of-distinct-islands](https://github.com/rbakash/CP-python/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/rbakash/CP-python/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/rbakash/CP-python/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rbakash/CP-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -878,6 +882,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rbakash/CP-python/tree/master/0187-repeated-dna-sequences) |
+| [0694-number-of-distinct-islands](https://github.com/rbakash/CP-python/tree/master/0694-number-of-distinct-islands) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/rbakash/CP-python/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Bit Manipulation
 |  |
