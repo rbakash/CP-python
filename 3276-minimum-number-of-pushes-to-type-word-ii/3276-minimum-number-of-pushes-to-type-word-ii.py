@@ -5,7 +5,7 @@ class Solution:
         for char in word:
             freq[char]+=1
         sortedFreq = sorted(freq.items(), key=lambda x:-x[1])
-
+        
         minPushes =0
         currentPress,currentChar =1,1
         for char,count in sortedFreq:
@@ -14,5 +14,9 @@ class Solution:
                 currentChar = 1
             minPushes += (count * currentPress)
             currentChar+=1
-        return minPushes
+
+        # Other easy solution
+        sortedFreq = [ x[1] for x in sortedFreq]
+        totalPush = sum(sortedFreq[:8]) + 2*sum(sortedFreq[8:16]) + 3 * sum(sortedFreq[16:24]) + 4* sum(sortedFreq[24:32])
+        return totalPush
         
