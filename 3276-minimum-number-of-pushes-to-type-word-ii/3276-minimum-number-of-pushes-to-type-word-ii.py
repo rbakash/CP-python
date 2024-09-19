@@ -15,8 +15,9 @@ class Solution:
             minPushes += (count * currentPress)
             currentChar+=1
 
-        # Other easy solution
+        # Other easy solution - sum the number series 1* sum[:8] + 2* sum([8:16]) & so on
         sortedFreq = [ x[1] for x in sortedFreq]
         totalPush = sum(sortedFreq[:8]) + 2*sum(sortedFreq[8:16]) + 3 * sum(sortedFreq[16:24]) + 4* sum(sortedFreq[24:32])
+        
         return totalPush
         
