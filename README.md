@@ -426,6 +426,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/rbakash/CP-python/tree/master/0362-design-hit-counter) |
 | [0399-evaluate-division](https://github.com/rbakash/CP-python/tree/master/0399-evaluate-division) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rbakash/CP-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/rbakash/CP-python/tree/master/0473-matchsticks-to-square) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rbakash/CP-python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
@@ -539,6 +540,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/rbakash/CP-python/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0348-design-tic-tac-toe](https://github.com/rbakash/CP-python/tree/master/0348-design-tic-tac-toe) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rbakash/CP-python/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rbakash/CP-python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rbakash/CP-python/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/rbakash/CP-python/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/rbakash/CP-python/tree/master/0554-brick-wall) |
