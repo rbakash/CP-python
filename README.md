@@ -445,6 +445,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0966-binary-subarrays-with-sum](https://github.com/rbakash/CP-python/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/rbakash/CP-python/tree/master/0985-bag-of-tokens) |
 | [0986-largest-time-for-given-digits](https://github.com/rbakash/CP-python/tree/master/0986-largest-time-for-given-digits) |
+| [1002-maximum-width-ramp](https://github.com/rbakash/CP-python/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rbakash/CP-python/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rbakash/CP-python/tree/master/1032-satisfiability-of-equality-equations) |
 | [1046-max-consecutive-ones-iii](https://github.com/rbakash/CP-python/tree/master/1046-max-consecutive-ones-iii) |
@@ -915,6 +916,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
 | [0716-max-stack](https://github.com/rbakash/CP-python/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/rbakash/CP-python/tree/master/0735-asteroid-collision) |
+| [1002-maximum-width-ramp](https://github.com/rbakash/CP-python/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rbakash/CP-python/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rbakash/CP-python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1768-design-an-expression-tree-with-evaluate-function](https://github.com/rbakash/CP-python/tree/master/1768-design-an-expression-tree-with-evaluate-function) |
@@ -1063,6 +1065,7 @@ Feel free to contribute by adding more topics, updating the solved problems, or 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rbakash/CP-python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/rbakash/CP-python/tree/master/0402-remove-k-digits) |
+| [1002-maximum-width-ramp](https://github.com/rbakash/CP-python/tree/master/1002-maximum-width-ramp) |
 ## Bitmask
 |  |
 | ------- |
